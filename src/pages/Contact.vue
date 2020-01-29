@@ -9,9 +9,8 @@
             <h5 style="color:black;">Fill the form below to get in touch</h5>
           </section>
           <section>
-            <form name="contact" netlify method="POST">
+            <form name="contact" netlify-date="true" action="POST">
               <div class="input-container">
-                <input type="hidden" name="contact" value="contact" />
                 <label>Name:</label>
                 <input type="text" name="name" />
               </div>
