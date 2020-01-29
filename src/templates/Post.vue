@@ -6,7 +6,7 @@
         <h1>{{$page.post.title}}</h1>
         <tags :tags="$page.post.tags" />
       </header>
-      <section v-html="$page.post.content">
+      <section v-html="$page.post.content" class="post">
       </section>
     </div>
   </Layout>
@@ -38,5 +38,11 @@ export default {
   }
 };
 </script>
-<style>
+<style scoped lang="scss">
+.post{
+  img{
+    display:block;
+    text-align:center;
+  }
+}
 </style>

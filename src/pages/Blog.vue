@@ -11,7 +11,7 @@
 </template>
 <page-query>
 query {
-  posts: allPost(limit:5) {
+  posts: allPost(sortBy: "date") {
     edges {
       node {
         title
