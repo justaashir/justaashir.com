@@ -10,6 +10,7 @@ import InfoBox from '~/components/InfoBox.vue'
 import PostCard from '~/components/PostCard.vue'
 
 import '~/assets/styles/main.scss'
+import 'prismjs/themes/prism.css'
 
 
 export default function (Vue, { router, head, isClient }) {

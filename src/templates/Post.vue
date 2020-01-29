@@ -43,6 +43,7 @@ export default {
   img{
     display:block;
     text-align:center;
+    max-width:100%;
   }
 }
 </style>

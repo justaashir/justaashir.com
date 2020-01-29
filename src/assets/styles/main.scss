@@ -61,6 +61,15 @@ table,
 ul {
   margin: 1em 0 1.5rem;
 }
+dl,
+ol,
+ul{
+  list-style-position: inside;
+}
+li{
+  margin-top:10px;
+  line-height: 1.65;
+}
 section {
   margin-top: 30px;
 }
@@ -116,8 +125,15 @@ code {
   font-size: 1em;
   display: inline-block;
 }
-
+img{
+  display:block;
+  text-align:center;
+  margin:30px;
+  max-width:80%;
+}
+ 
 @media (min-width: 620px) {
+  
   h1 {
     font-size: 3em;
     font-weight: 700 !important;
