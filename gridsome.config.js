@@ -1,5 +1,7 @@
 module.exports = {
-  siteName: 'Justaashir.com',
+  siteName: 'Justaashir - Aashir Aamir Khan Official Portfolio & Blog',
+  siteDescription: 'Aashir Aamir Khan, Front End Web Developer & Writer. Designing perfect UI solutions with VueJS.',
+  siteUrl: 'https://www.justaashir.com',
   plugins: [
     {
       use: '@gridsome/source-filesystem',
@@ -21,6 +23,28 @@ module.exports = {
       },
       
     },
+    {
+      use: '@gridsome/plugin-sitemap',
+      options: {
+        cacheTime: 600000, 
+        // exclude: ['/exclude-me'], 404
+        config: {
+          '/blog/*': {
+            changefreq: 'weekly',
+            priority: 0.5
+          },
+          '/about': {
+            changefreq: 'monthly',
+            priority: 0.7
+          },
+          '/': {
+            changefreq: 'weekly',
+            priority: 0.5
+          }
+        }
+      }
+    }
+ 
   ],
   templates: {
     Post: '/blog/:title',
@@ -28,6 +52,14 @@ module.exports = {
   },
 
   transformers: {
-    remark: {}
+    //Add markdown support to all file-system sources
+    remark: {
+      externalLinksTarget: '_blank',
+      externalLinksRel: ['nofollow', 'noopener', 'noreferrer'],
+      anchorClassName: 'icon icon-link',
+      plugins: [
+        '@gridsome/remark-prismjs'
+      ]
+    }
   }
 }
