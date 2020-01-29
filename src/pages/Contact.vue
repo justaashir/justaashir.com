@@ -10,13 +10,14 @@
           </section>
           <section>
             <form name="contact" netlify-date="true" action="POST">
+              <input type="hidden" name="form-name" value="contact" />
               <div class="input-container">
                 <label>Name:</label>
                 <input type="text" name="name" />
               </div>
               <div class="input-container">
                 <label>Your Email:</label>
-                <input type="text" name="email" />
+                <input type="email" name="email" />
               </div>
               <div class="input-container">
                 <label>Message:</label>
