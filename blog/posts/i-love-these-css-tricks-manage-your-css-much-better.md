@@ -2,9 +2,9 @@
 title: I Love These CSS Tricks - Manage your CSS Much Better
 date: 2019-10-06T07:40:03.683Z
 tags:
-  - css
   - tricks
   - lists
+  - css
 ---
 I was a little busy around these days(School HomeWork), But I am writing this article today. These days I learned a lot about Design Systems [(Atomic Design)](https://bradfrost.com/blog/post/atomic-web-design/) I will definitely write a post about this. I was really wasting time choosing different design components but There are lots of [PatternLibraries](styleguides.io) available. Today I will share some CSS Tricks I am using Right now:
 #### Titling the Sections
