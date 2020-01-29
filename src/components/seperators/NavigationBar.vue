@@ -10,6 +10,7 @@
       <div class="nav-links">
         <g-link to="/about" class="link">About</g-link>
         <g-link to="/blog" class="link">Blog</g-link>
+        <g-link to="/contact" class="link">Contact</g-link>
         <a href="https://www.twitter.com/justaashir" class="link"><i class="fab fa-twitter"></i></a>
         <a href="https://www.github.com/justaashir" class="link"><i class="fab fa-github"></i></a>
          <a href="https://www.dev.to/justaashir" class="link"><i class="fab fa-dev"></i></a>

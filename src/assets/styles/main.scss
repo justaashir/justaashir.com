@@ -17,8 +17,19 @@ $secondary:#effaf3;
 }
 
 // Helpers
+.j-button{
+  font-size:1.25em;
+  background-color:$primary;
+  color:white;
+  border:none;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding:0.2em 1.5em;
+}
 .j-text-bold {
   font-weight: bold !important;
+}
+.j-text-center{
+  text-align:center;
 }
 .j-float-left {
   float: left;
@@ -148,7 +159,7 @@ img{
     font-size: 2em;
   }
   h5 {
-    font-size: 1.6em;
+    font-size: 1.3em;
   }
   h6 {
     font-size: 1em;
