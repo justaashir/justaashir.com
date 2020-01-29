@@ -4,11 +4,16 @@
     <h6 class="j-color-primary j-text-bold">{{post.date}}</h6>
     <h3>{{post.title}}</h3>
      </g-link>
+     <tags :tags="post.tags" />
   </section>
 </template>
 
 <script>
+import Tags from '~/components/PostTags'
 export default {
+  components: {
+    Tags
+  },
   props: {
    post: {
      required: true,

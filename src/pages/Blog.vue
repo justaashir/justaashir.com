@@ -30,6 +30,9 @@ query {
 <script>
   import Tags from '~/components/PostTags'
 export default {
+  metaInfo: {
+    title: "Blog | Aashir Aamir Khan - Front End Web Developer & Technical Writer"
+  },
   components: {
     Tags
   },

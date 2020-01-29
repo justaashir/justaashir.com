@@ -48,7 +48,11 @@
 </template>
 
 <script>
-export default {};
+export default {
+  metaInfo: {
+    title: "Contact Me | Aashir Aamir Khan - Front End Web Developer & Technical Writer"
+  },
+};
 </script>
 
 <style lang="scss" scoped>
@@ -77,6 +81,10 @@ form {
       width: 100%;
       display: block;
       margin-top: 10px;
+      &:focus{
+        outline:0px;
+        border: 2px solid #257942;
+      }
     }
   }
 }
