@@ -53,7 +53,7 @@ module.exports = {
  
   ],
   templates: {
-    Post: '/blog/:title',
+    Post: '/blog/:url',
     Tag: '/tag/:id'
   },
 

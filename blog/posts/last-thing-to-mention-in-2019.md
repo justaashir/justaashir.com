@@ -1,6 +1,7 @@
 ---
 title: ' Last Thing - To Mention in 2019'
 date: 2019-12-24T08:04:15.307Z
+url: bye bye 2019
 tags:
   - motivational
   - story

@@ -1,5 +1,6 @@
 ---
 title: 'Awesome Tools and Resources I Found on Twitter '
+url: tools from twitter
 date: 2019-09-22T07:30:37.142Z
 tags:
   - twitter

@@ -1,5 +1,6 @@
 ---
 title: Do Design Systems prevent creativity? Let's Discuss about a question
+url: Design Systems are preventing creativity
 date: 2019-10-27T07:51:56.300Z
 tags:
   - discuss

@@ -1,5 +1,6 @@
 ---
 title: What is Going on With Static Site Generators? Why the numbers are increasing?
+url: static site generators are increasing
 date: 2019-10-19T07:46:38.473Z
 tags:
   - Static Site Generator

@@ -14,6 +14,7 @@ query {
   posts: allPost(sortBy: "date") {
     edges {
       node {
+        url
         title
         date(format: "D MMMM YYYY")
         tags {

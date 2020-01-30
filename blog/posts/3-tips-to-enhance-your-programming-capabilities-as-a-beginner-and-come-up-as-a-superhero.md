@@ -2,6 +2,7 @@
 title: >-
   3 Tips to enhance your programming capabilities as a beginner and come up as a
   superhero!
+url: tricks to become a superhero in programming
 date: 2019-12-13T08:02:35.389Z
 tags:
   - tricks

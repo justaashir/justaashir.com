@@ -1,5 +1,6 @@
 ---
 title: Amezmo - The modern tool for PHP app hosting and it's amazing
+url: Amezmo - PHP app hosting platform
 date: 2019-11-13T07:56:38.738Z
 tags:
   - php

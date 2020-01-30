@@ -1,5 +1,6 @@
 ---
 title: Bulma - The Most Underrated Framework of the CSS Framework Era
+url: Bulma is the most Underrated Framework
 date: 2019-11-16T07:19:55.751Z
 tags:
   - css frameworks

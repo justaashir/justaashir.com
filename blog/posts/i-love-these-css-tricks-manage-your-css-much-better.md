@@ -1,5 +1,6 @@
 ---
 title: I Love These CSS Tricks - Manage your CSS Much Better
+url: Some CSS Tricks to get your work done.
 date: 2019-10-06T07:40:03.683Z
 tags:
   - tricks

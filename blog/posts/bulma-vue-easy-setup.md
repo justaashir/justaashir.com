@@ -1,5 +1,6 @@
 ---
 title: Bulma + Vue = Easy Setup
+url: How to setup Bulma with Vue 
 date: 2019-10-31T07:54:29.295Z
 tags:
   - vue

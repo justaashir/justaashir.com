@@ -1,5 +1,6 @@
 ---
 title: 'DEV is Amazing for me, it changed my entire career'
+url: DEV is amazing for newcomers like me
 date: 2020-01-29T07:57:57.598Z
 tags:
   - DEV

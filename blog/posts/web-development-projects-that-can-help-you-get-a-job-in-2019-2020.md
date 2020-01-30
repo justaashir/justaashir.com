@@ -1,5 +1,6 @@
 ---
 title: Web Development Projects That can help You Get a Job in 2019-2020
+url: Web Development Projects to get a Job in 2019-2020
 date: 2019-10-10T07:43:08.583Z
 tags:
   - web development

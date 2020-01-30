@@ -2,6 +2,7 @@
 title: >-
   Static Site Generators are not for me! My Experience with Jekyll, Hugo and
   NetlifyCMS
+url: My story of static site generators
 date: 2019-09-18T07:25:35.755Z
 tags:
   - Static Site Generators

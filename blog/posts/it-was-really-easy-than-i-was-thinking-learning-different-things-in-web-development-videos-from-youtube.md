@@ -2,6 +2,7 @@
 title: >-
   It was really easy than I was thinking! Learning Different Things in Web
   Development - Videos from Youtube
+url: Why Youtube is good for learning?
 date: 2019-10-01T07:37:16.468Z
 tags:
   - lists
