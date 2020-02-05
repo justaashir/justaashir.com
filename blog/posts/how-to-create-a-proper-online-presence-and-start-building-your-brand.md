@@ -49,11 +49,11 @@ It doesn't matter whether you are a designer, developer or manager. You've to ta
 
 #### But How?
 
-You can start blogging on [*Medium* ](medium.com)as it's free to use and very easy to start. 
+You can start blogging on [*Medium* ](https://www.medium.com)as it's free to use and very easy to start. 
 
-If you are ready to invest some bucks into this then you should be looking up directly for [WordPress ](wordpress.org)as it's the most stable and efficient way to blog.
+If you are ready to invest some bucks into this then you should be looking up directly for [WordPress ](https://www.wordpress.org)as it's the most stable and efficient way to blog.
 
-**Note for Programmers & Developers:** There is a platform called [DEV ](dev.to)specifically for developers to blog, and it's amazing. just blog there and you'll be embraced by a wonderful community.
+**Note for Programmers & Developers:** There is a platform called [DEV ](https://www.dev.to)specifically for developers to blog, and it's amazing. just blog there and you'll be embraced by a wonderful community.
 
 ## Buy a .com Domain
 
@@ -63,6 +63,6 @@ You've to buy a domain for your brand name to secure it. It's a major sign of yo
 
 ## Create a Professional Email
 
-This is a major point to make a great impact on people, as I get 60% more replies in emails from clients just because of my website's email like `hello@justaashir.com`. You shouldn't be using a [Gmail ](https://mail.google.com/mail/u/0/)or [outlook](outlook.com). You can create an email when you buy the domain. 
+This is a major point to make a great impact on people, as I get 60% more replies in emails from clients just because of my website's email like `hello@justaashir.com`. You shouldn't be using a [Gmail ](https://mail.google.com/mail/u/0/)or [outlook](https://www.outlook.com). You can create an email when you buy the domain. 
 
-**Note for Programmers & Developers:** You can create an unlimited amount of email aliases for free using [ImproveMX](improvemx.com). it's amazing and I'm going to write an article about it in the future. Hi, are you looking for better opportunities and want to share your thoughts with a lot more people. It's not hard, you just need some tips and tricks and get this thing in your mind that "It's not possible in one day or a week." You have to work on it and pay continuous attention to it every day.
+**Note for Programmers & Developers:** You can create an unlimited amount of email aliases for free using [ImproveMX](https://www.improvemx.com). it's amazing and I'm going to write an article about it in the future. Hi, are you looking for better opportunities and want to share your thoughts with a lot more people. It's not hard, you just need some tips and tricks and get this thing in your mind that "It's not possible in one day or a week." You have to work on it and pay continuous attention to it every day.

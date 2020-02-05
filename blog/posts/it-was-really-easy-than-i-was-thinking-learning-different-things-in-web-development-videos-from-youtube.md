@@ -29,12 +29,12 @@ CSS is much easier than Javascript but sometimes it can be overwhelming, SO ther
  - CSS Positioning
 
     I really was at the moment when I saw a modal on top of everything and all the content is blur. I said this is "Magic". Someone Explained to me the Positions, but I didn't understand the Z-index and everything. So this is what I found on the Internet :
-[![](http://img.youtube.com/vi/gD3G67oPg-w/0.jpg)](http://www.youtube.com/watch?v=gD3G67oPg-w "")
+[![(http://img.youtube.com/vi/gD3G67oPg-w/0.jpg)](http://www.youtube.com/watch?v=gD3G67oPg-w "")
 
  - The Different CSS Units
    It's really the most important topic to learn in CSS (I think!). So I have learned it. This was helpful for me : 
-[![](http://img.youtube.com/vi/Cb1-CXUiaCM/0.jpg)](http://www.youtube.com/watch?v=Cb1-CXUiaCM "")
+[![(http://img.youtube.com/vi/Cb1-CXUiaCM/0.jpg)](http://www.youtube.com/watch?v=Cb1-CXUiaCM "")
 
 #### Design Theory
   I was really not interested in designing and Drawing in School or in the Past. I don't know that there is some type of design system the designers use. But this video really motivated me to design and now I am here :
-[![](http://img.youtube.com/vi/uKpfO331DY4/0.jpg)](http://www.youtube.com/watch?v=uKpfO331DY4 "")
+[![(http://img.youtube.com/vi/uKpfO331DY4/0.jpg)](http://www.youtube.com/watch?v=uKpfO331DY4 "")

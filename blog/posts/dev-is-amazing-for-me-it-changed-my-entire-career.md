@@ -39,4 +39,4 @@ Share your story and Stats about your profile, and tell me that is this Stats go
 
 ![Alt Text](https://thepracticaldev.s3.amazonaws.com/i/egnnvp0vq4v4o9bpdq9y.png)
 
-Check me out on twitter : [twitter.com/justaashir](twitter.com/justaashir)
+Check me out on twitter : [twitter.com/justaashir](https://www.twitter.com/justaashir)s

@@ -15,8 +15,8 @@ collections:
       - { label: "Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
       - {
-          label: "Tags",
+          label: "tags",
           name: "tags",
           widget: "list",
-          field: { name: , label: Tag, widget: string },
+          field: { name: , label: tag, widget: string },
         }

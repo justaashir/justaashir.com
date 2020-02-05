@@ -13,7 +13,6 @@ Design System is a comprehensive guide for project design – a collection of ru
 Design Systems are often called the single source of truth for the team involved in product creation. It allows the team to design, develop and maintain the quality of the product.
 
 So I read this on Twitter : 
-{% twitter 1187438643763220480 %}
 I was like how to answer this question? So Design Systems do prevent creativity because it's needed to generate more products than just making a perfect button. Every time you try to create a new button from scratch, your mind will generate a new type of button and you will find your previous work waste. It's much about solving the problems by designing not just designing for good looks.
 
 this concept applies to the Frameworks too, Design Frameworks created by companies so their website looks the same to provide a better user experience but if you try to read the pros and cons of the Bootstrap and other Frameworks, You will find this point in cons that websites look same. Google Material Design is the hard work of many years by the creative team.
@@ -25,5 +24,3 @@ Almost Every Big company has a design system nowadays, I read about their design
 
 `Design has always been largely about systems, and how to create products in a scalable and repeatable way… These systems enable us to manage the chaos and create better products… A unified design system is essential to building better and faster; better because a cohesive experience is more easily understood by our users, and faster because it gives us a common language to work with.`
 ___Airbnb
-
-I'm [Aashir Aamir Khan](https://twitter.com/justaashir), Teenage Junior Web Developer, Looking for some Chocolates in the Chocolate Factory. Blogging to tell the community that I exist in this world.

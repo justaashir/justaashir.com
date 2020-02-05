@@ -27,10 +27,10 @@ query ($path: String!) {
 }
 </page-query>
 <script>
-import Tags from '~/components/PostTags'
+import tags from '~/components/PostTags'
 export default {
   components: {
-    Tags
+    tags
   },
   metaInfo() {
     return {

@@ -9,10 +9,10 @@
 </template>
 
 <script>
-import Tags from '~/components/PostTags'
+import tags from '~/components/PostTags'
 export default {
   components: {
-    Tags
+    tags
   },
   props: {
    post: {

@@ -1,12 +1,14 @@
-@import "./reset.scss";
-@import "./theme.scss";
-$heading-color: #4d4646;
-$primary: #257942;
-$secondary:#effaf3;
+// Imports
+@import "./base/reset.scss";
+@import "./variables.scss";
+@import "./base/base.scss";
+@import "./base/helpers.scss";
+@import "./base/new-moon.scss";
 
 
 
-// Seperators
+
+// Styles
 .j-body-container{
   margin: 0 auto;
   width: 100%;
@@ -15,119 +17,7 @@ $secondary:#effaf3;
 .j-page-container{
   margin: 130px 15px 0 15px;
 }
-
-// Helpers
-.j-button{
-  font-size:1.25em;
-  background-color:$primary;
-  color:white;
-  border:none;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  padding:0.2em 1.5em;
-}
-.j-text-bold {
-  font-weight: bold !important;
-}
-.j-text-center{
-  text-align:center;
-}
-.j-float-left {
-  float: left;
-}
-.j-float-right {
-  float: right;
-}
-.j-bg-primary {
-  background-color: $primary;
-}
-.j-color-primary {
-  color: $primary;
-}
-.j-color-secondary {
-  color: $secondary;
-}
-.j-bg-secondary {
-  background-color: $secondary;
-}
-.j-dashed-border {
-  border-style: dashed;
-}
-
-
-// Base
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  margin-top: 0.5em;
-  font-weight: 600;
-  color: $heading-color;
-}
-dl,
-ol,
-p,
-table,
-ul {
-  margin: 1em 0 1.5rem;
-}
-dl,
-ol,
-ul{
-  list-style-position: inside;
-}
-li{
-  margin-top:10px;
-  line-height: 1.65;
-}
-section {
-  margin-top: 30px;
-}
-
-// Headings
-
-h1 {
-  font-size: 1.7em;
-  font-weight: 700 !important;
-}
-h2 {
-  font-size: 1.8em;
-}
-h3 {
-  font-size: 1.75em;
-}
-h4 {
-  font-size: 1.5em;
-}
-h5 {
-  font-size: 1.2em;
-}
-h6 {
-  font-size: 0.8em;
-}
-p {
-  line-height: 1.65;
-  font-weight: 400;
-  font-size: 0.9em;
-  a {
-    border-bottom: 2px solid $primary;
-    color: $primary;
-    &:hover {
-      border-bottom: 2px dashed $primary;
-    }
-  }
-}
-code {
-  padding: 3px 5px;
-  display: inline-block;
-  background-color: black;
-  color: white;
-  font-family: monospace;
-}
-
-// Elements
-.tag {
+.j-tag {
   background-color: $secondary;
   color: $primary;
   border-radius: 4px;
@@ -136,236 +26,22 @@ code {
   font-size: 1em;
   display: inline-block;
 }
-img{
-  display:block;
-  text-align:center;
-  margin:30px;
-  max-width:80%;
+.j-button{
+  font-size:1.25em;
+  background-color:$primary;
+  color:white;
+  border:none;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding:0.2em 1.5em;
 }
+
+
+
+
  
 @media (min-width: 620px) {
-  
-  h1 {
-    font-size: 3em;
-    font-weight: 700 !important;
-  }
-  h2 {
-    font-size: 2.5em;
-  }
-  h3 {
-    font-size: 2.25em;
-  }
-  h4 {
-    font-size: 2em;
-  }
-  h5 {
-    font-size: 1.3em;
-  }
-  h6 {
-    font-size: 1em;
-  }
-  p {
-    line-height: 1.65;
-    font-weight: 400;
-    font-size: 1.1em;
-    
-  }
-
-  // Elements
-  .tag {
+  .j-tag {
     padding: 0.5em 1em;
   }
 
 }
-/*
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p {
-  margin-top: 1em;
-  font-weight: 600;
-  color: #4d4646;
-}
-h1 {
-  font-size: 2rem;
-  color: #4d4646;
-  font-weight: 700 !important;
-}
-h2 {
-  font-size: 2.5rem;
-}
-h3 {
-  font-size: 2rem;
-}
-h4 {
-  font-size: 1.14rem;
-}
-h5 {
-  font-size: 1.5rem;
-}
-h6 {
-  font-size: 0.9rem;
-}
-
-
-
-// Text
-p {
-  padding-top: 10px;
-  line-height: 1.65;
-  font-weight: 400;
-  font-size: 0.75rem;
-}
-dl,
-ol,
-p,
-table,
-ul {
-  margin: 0 0 1.5rem;
-  font-size: 0.75rem;
-}
-span {
-  background-color: $secondary;
-  color: $primary;
-  border-radius: 4px;
-  padding: 0.25rem 0.5rem;
-  font-size: 0.7rem;
-  display: inline-block;
-}
-code {
-  padding: 3px 5px;
-  display: inline-block;
-  background-color: black;
-  color: white;
-  font-family: monospace;
-}
-p a {
-  border-bottom: 2px solid $primary;
-  color: $primary;
-  &:hover {
-    border-bottom: 2px dashed $primary;
-  }
-}
-section,
-.section {
-  margin-top: 30px;
-}
-
-// Personal Flavour
-
-.j-container {
-  margin: 0 auto;
-  width: 100%;
-  max-width: 960px;
-}
-.page-container {
-  margin: 100px 15px 0 15px;
-}
-.j-vertically-centered {
-  display: flex;
-  align-items: center;
-}
-.j-favicon {
-  width: 50px;
-  display: inline-block;
-  padding: 0.5rem;
-}
-.j-text-bold {
-  font-weight: bold !important;
-}
-.j-float-left {
-  float: left;
-}
-.j-float-right {
-  float: right;
-}
-.j-bg-primary {
-  background-color: $primary;
-}
-.j-color-primary {
-  color: $primary;
-}
-.j-color-secondary {
-  color: $secondary;
-}
-.j-bg-secondary {
-  background-color: $secondary;
-}
-.p-10 {
-  padding: 10px;
-}
-.dashed-border {
-  border-style: dashed;
-}
-.j-hero h1 {
-  margin-top: 0px;
-  font-size: 1.3rem;
-}
-.j-hero {
-  margin-bottom: 90px;
-}
-.info-box {
-  background-color: hsl(142, 52%, 96%);
-  border: 1px solid #c2c7c4;
-  color: $primary;
-  border-radius: 4px;
-  margin-top: 20px;
-  margin-bottom: 10px;
-  padding: 0.75rem;
-  font-size: 0.7rem;
-  line-height: 1.65;
-  font-weight: 400;
-}
-.post {
-  margin-top: 30px;
-  border: 2px dashed #c2c7c4;
-  padding: 1rem;
-}
-// reseters
-.no-padding {
-  padding: 0 !important;
-}
-
-
-// Tablet & Mobile
-@media (min-width: 620px) {
-  h1 {
-    font-size: 3rem;
-    color: #4d4646;
-    font-weight: 900;
-  }
-  h5 {
-    font-size: 1.25rem;
-  }
-  h6 {
-    font-size: 1rem;
-  }
-
-  p {
-    padding-top: 10px;
-    font-size: 1rem;
-  }
-  span {
-    padding: 0.5rem 1rem;
-    font-size: 0.75rem;
-    display: inline-block;
-  }
-  .page-container {
-    margin: 150px 15px 0 15px;
-  }
-  .j-hero h1 {
-    margin-top: 10px;
-    font-size: 3rem;
-  }
-  .j-favicon {
-    width: 70px;
-  }
-  h4 {
-    font-size: 1.75rem;
-  }
-}
-
-*/

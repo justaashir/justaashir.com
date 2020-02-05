@@ -29,13 +29,13 @@ query {
 }
 </page-query>
 <script>
-  import Tags from '~/components/PostTags'
+  import tags from '~/components/PostTags'
 export default {
   metaInfo: {
     title: "Blog | Aashir Aamir Khan - Front End Web Developer & Technical Writer"
   },
   components: {
-    Tags
+    tags
   },
 };
 </script>
@@ -43,4 +43,3 @@ export default {
 <style lang="scss" scoped>
 
 </style>
-

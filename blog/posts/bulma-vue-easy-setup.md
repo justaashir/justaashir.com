@@ -38,4 +38,4 @@ I don't know if it's the right way to connect the Bulma with VueJs, but it's wor
 
 There is another thing called [Buefy](buefy.org), Ali wrote a fantastic post about this : [https://dev.to/aligoren/bulma-based-ui-components-for-vuejs-41i4](https://dev.to/aligoren/bulma-based-ui-components-for-vuejs-41i4).
 
-Bye Bye, I'm active on Twitter : [twitter.com/justaashir](twitter.com/justaashir).
+Bye Bye, I'm active on Twitter : [twitter.com/justaashir](https://www.twitter.com/justaashir).
