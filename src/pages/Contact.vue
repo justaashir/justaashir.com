@@ -9,7 +9,7 @@
             <h5 style="color:black;">Fill the form below to get in touch</h5>
           </section>
           <section>
-            <form name="contact" data-netlify="true" methods="POST" netlify-honeypot="bot-field" @submit.prevent="checkForm()"  >
+            <form name="contact" data-netlify="true" methods="POST" netlify-honeypot="bot-field">
               
               <p style="display:none;">
                 <label>
@@ -20,27 +20,27 @@
               <input type="hidden" name="form-name" value="contact" />
               <div class="input-container">
                 <label>Name:</label>
-                <input type="text" name="name" v-model="name" />
+                <input type="text" name="name" />
               </div>
               <div class="input-container">
                 <label>Your Email:</label>
-                <input type="email" name="email" v-model="email" />
+                <input type="email" name="email" />
               </div>
               <div class="input-container">
                 <label>Message:</label>
-                <textarea type="text" name="message" v-model="message" />
+                <textarea type="text" name="message" />
               </div>
               <div class="input-container">
                 <button class="j-button j-float-right" type="submit" >Send</button>
               </div>
-               <p v-if="errors.length">
+               <!-- <p v-if="errors.length">
     <b>Some Ugly Errors:</b>
     <ul>
       <li v-for="error in errors" :key="error">
         {{ error }}
       </li>
     </ul>
-  </p>
+  </p> -->
             </form>
           </section>
         </div>
@@ -70,36 +70,36 @@
 export default {
   metaInfo: {
     title:
-      "Contact Me | Aashir Aamir Khan - Front End Web Developer & Technical Writer"
+      "Contact Me | "
   },
   data() {
     return {
-      errors: [],
-      name: "",
-      email: "",
-      message: ""
+      // errors: [],
+      // name: "",
+      // email: "",
+      // message: ""
     };
   },
   methods: {
-     checkForm: function (e) {
-      if (this.name && this.email && this.message) {
-        return true;
-      }
+    //  checkForm: function (e) {
+    //   if (this.name && this.email && this.message) {
+    //     return true;
+    //   }
 
-      this.errors = [];
+    //   this.errors = [];
 
-      if (!this.name) {
-        this.errors.push('Name required.');
-      }
-      if (!this.email) {
-        this.errors.push("Email field can't be empty.");
-      }
-      if (!this.email) {
-        this.errors.push('It looks like you forgot to write down a message.');
-      }
+    //   if (!this.name) {
+    //     this.errors.push('Name required.');
+    //   }
+    //   if (!this.email) {
+    //     this.errors.push("Email field can't be empty.");
+    //   }
+    //   if (!this.email) {
+    //     this.errors.push('It looks like you forgot to write down a message.');
+    //   }
 
-      e.preventDefault();
-    }
+      
+    // }
   }
 };
 </script>

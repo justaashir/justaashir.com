@@ -1,6 +1,6 @@
 module.exports = {
-  siteName: 'Justaashir - Aashir Aamir Khan Official Portfolio & Blog',
-  siteDescription: 'Aashir Aamir Khan, Front End Web Developer & Writer. Designing perfect UI solutions with VueJS.',
+  siteName: 'Justaashir',
+  siteDescription: "Front End Web Developer, Technical Writer from Pakistan. I design perfect UI solution, with VueJs and JAMSTACK.",
   siteUrl: 'https://www.justaashir.com',
   plugins: [
     {

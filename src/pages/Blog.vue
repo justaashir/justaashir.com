@@ -32,7 +32,7 @@ query {
   import tags from '~/components/PostTags'
 export default {
   metaInfo: {
-    title: "Blog | Aashir Aamir Khan - Front End Web Developer & Technical Writer"
+    title: "Blog - Latest Posts |  "
   },
   components: {
     tags

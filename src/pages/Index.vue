@@ -50,7 +50,7 @@ query {
 import jHeader from '~/components/seperators/Header'
 export default {
   metaInfo: {
-    title: "Justaashir | Aashir Aamir Khan - Front End Web Developer & Technical Writer"
+    title: " Aashir Aamir Khan - Front End Web Developer & Technical Writer |"
   },
   components:{
     jHeader
