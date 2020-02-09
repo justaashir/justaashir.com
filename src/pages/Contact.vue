@@ -20,15 +20,15 @@
               <input type="hidden" name="form-name" value="contact" />
               <div class="input-container">
                 <label>Name:</label>
-                <input type="text" name="name" />
+                <input type="text" name="name" required />
               </div>
               <div class="input-container">
                 <label>Your Email:</label>
-                <input type="email" name="email" />
+                <input type="email" name="email" required />
               </div>
               <div class="input-container">
                 <label>Message:</label>
-                <textarea type="text" name="message" />
+                <textarea type="text" name="message" required />
               </div>
               <div class="input-container">
                 <button class="j-button j-float-right" type="submit" >Send</button>

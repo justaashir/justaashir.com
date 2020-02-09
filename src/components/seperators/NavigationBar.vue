@@ -11,9 +11,9 @@
         <g-link to="/about" class="link">About</g-link>
         <g-link to="/blog" class="link">Blog</g-link>
         <g-link to="/contact" class="link">Contact</g-link>
-        <a href="https://www.twitter.com/justaashir" class="link"><i class="fab fa-twitter"></i></a>
-        <a href="https://www.github.com/justaashir" class="link"><i class="fab fa-github"></i></a>
-         <a href="https://www.dev.to/justaashir" class="link"><i class="fab fa-dev"></i></a>
+        <a href="https://www.twitter.com/justaashir" class="link"><img src="@/assets/icons/twitter.png" alt=""></a>
+        <a href="https://www.github.com/justaashir" class="link"><img src="@/assets/icons/github.png" alt=""></a>
+         <a href="https://www.dev.to/justaashir" class="link"><img src="@/assets/icons/dev.png" alt=""></a>
       </div>
     </div>
   </nav>
@@ -24,6 +24,7 @@ export default {};
 </script>
 
 <style lang="scss" scoped>
+
 // Mobile
 nav {
   position: fixed;
@@ -83,9 +84,15 @@ nav.scroll {
 nav.scroll .nav-container {
   border-bottom: none;
 }
+img{
+  width:40px;
+}
 
 // PC & Tablet
 @media (min-width: 620px) {
+  img{
+  width:25px;
+}
   nav {
     .logo {
       font-size: 1.5em;
