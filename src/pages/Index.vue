@@ -16,7 +16,7 @@
       <!-- InfoBox -->
        <info-box>
         <h6>Hi, I'm Aashir Aamir Khan</h6>
-        <p>I'm a front-end web developer, I design perfect UI solutions with <a href="#">VueJS</a>. Passionate writer and a very like-able human being. <b class="j-text-bold">Feel free to contact me on <a href="#" class="dashed-border">hello@justaashir.com</a>, It would be a great expereince to work with you.</b></p>
+        <p>I'm a front-end web developer, I design perfect UI solutions with <a href="#">VueJS</a>. Passionate writer and a very like-able human being. <b class="j-text-bold">Feel free to contact me on <a href="#" class="dashed-border">hello@justaashir.com</a>, It would be a great experience to work with you.</b></p>
        </info-box>
 
        <!-- BLOG List -->
