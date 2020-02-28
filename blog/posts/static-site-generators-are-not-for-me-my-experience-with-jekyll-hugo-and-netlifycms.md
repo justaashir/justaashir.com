@@ -3,6 +3,7 @@ title: >-
   Static Site Generators are not for me! My Experience with Jekyll, Hugo and
   NetlifyCMS
 url: My story of static site generators
+carn: none
 date: 2019-09-18T07:25:35.755Z
 tags:
   - Static Site Generators
@@ -12,7 +13,7 @@ tags:
 ---
 My [previous post](https://dev.to/justaashir/bulma-the-most-underrated-framework-of-the-css-framework-era-2gj8) was a banger, I didn't know about the DEV's Power. My next post is here:
 
-My writer friend ❤️ wanted me to make a website for him, he wants to upload his stories online and also want his Portfolio to be available online. So everyone knows what's the best option, available??[Wordpress](https://www.wordpress.org/), Hmm. It was easy to work but I made it complicated myself, I wanted to get going with the Trends, I have heard so many times about the Speed and efficiency of Static Site Generators, So it's my experience with them: 
+My writer friend ❤️ wanted me to make a website for him, he wants to upload his stories online and also want his Portfolio to be available online. So everyone knows what's the best option, available??[Wordpress](https://www.wordpress.org/), Hmm. It was easy to work but I made it complicated myself, I wanted to get going with the Trends, I have heard so many times about the Speed and efficiency of Static Site Generators, So it's my experience with them:
 
 [Gatsby](https://www.gatsbyjs.org/) is the most popular Static Site Generator Right Now, But it's based on React and I don't know any JS Framework yet, and if you don't have good knowledge of [React](https://www.reactjs.org/), you can't use it. and so [Gridsome](https://www.gridsome.org/)(VueJs) you are also out.
 

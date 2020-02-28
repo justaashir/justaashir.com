@@ -1,6 +1,7 @@
 ---
 title: Amezmo - The modern tool for PHP app hosting and it's amazing
 url: Amezmo - PHP app hosting platform
+carn: https://dev.to/justaashir/amezmo-the-modern-tool-for-php-app-hosting-and-it-s-amazing-20lj
 date: 2019-11-13T07:56:38.738Z
 tags:
   - php
@@ -49,17 +50,17 @@ Networking is the most complicated stuff, and we care about all of our customer�
 You can also launch a worker or queue process easily with one click if you're in that stuff, Amezmo starts and monitors your queues and workers.
 
 Amezmo will also save your last 4 of the success deployments releases, so you can easily rollback in any scenario, Amezmo can do much more than you think. you can use it as a perfect deployment automation tool, run Hook Scripts and create other instances, That’s why we used to say that “Amezmo is Amazing!” and we are also open for any type of feedback and improvement,
-We want to provide a lovely experience to our users, you can check out the [transparent pricing of Amezmo](https://www.amezmo.com/pricing). 
+We want to provide a lovely experience to our users, you can check out the [transparent pricing of Amezmo](https://www.amezmo.com/pricing).
 
 #### Here’s how you can [deploy your first PHP app on Amezmo](https://www.amezmo.com/register):
 
 1. First Log-in with your credentials to visit the Amezmo Dashboard:
  ![Amezmo - Deploy Your First Application](https://thepracticaldev.s3.amazonaws.com/i/qz8e6qdfq2y512l7g7v7.png)
 
-2. Here we can create your first instance easily: 
+2. Here we can create your first instance easily:
  ![Amezmo - Deploy PHP easily](https://thepracticaldev.s3.amazonaws.com/i/4mgveamkctdm9fflacr6.png)
 
-3. Here we will enter our app’s name which is “first-php-app” and you don’t have a domain yet, you can use ‘database.internal’ just for now, but we can definitely add a custom domain later: 
+3. Here we will enter our app’s name which is “first-php-app” and you don’t have a domain yet, you can use ‘database.internal’ just for now, but we can definitely add a custom domain later:
 ![Amezmo Deploy PHP](https://thepracticaldev.s3.amazonaws.com/i/im9ok6o2zyvgfeyn7n1b.png)
 
 4. We will specify the version of PHP, we want to use. We support almost all versions, but we are going to use the latest: 7.4, we can also set up  our database here with MySQL, and we are going to use Redis, so it’s checked if you don’t want to use MySQL or Redis you can simply uncheck them :
@@ -72,7 +73,7 @@ We want to provide a lovely experience to our users, you can check out the [tran
 6. #### Installing Composer Dependencies
 We can easily install composer plugins or NPM dependencies, Amezmo supports this out of the box with Deployment Hooks, and it had already installed composer for you.
  - Go to your repository and create the file  .amezmo/after.pull
- - Here you can install any NPM or Composer plugin by following this pattern: 
+ - Here you can install any NPM or Composer plugin by following this pattern:
 
 ![A](https://thepracticaldev.s3.amazonaws.com/i/mqq5jd5k9hbt5kik8k8z.png)
 
@@ -86,7 +87,7 @@ We can easily install composer plugins or NPM dependencies, Amezmo supports this
 
 ![Alt Text](https://thepracticaldev.s3.amazonaws.com/i/5lt4qcbqentvpopk8te8.png)
 
- 
+
  - 9. We want the deployment on every push so we chose YES:
 
 ![Alt Text](https://thepracticaldev.s3.amazonaws.com/i/wq4wb8865bspuzmirmci.png)
@@ -100,7 +101,7 @@ Deploy your PHP app on Amezmo now, [get a 30-day free trial here](https://www.am
 
 
 ##### Maybe you have a question in your mind that How can I trust a new company and pay?
- Customer’s trust is almost everything for us, that’s why we are providing the 30-day free trial and you don’t have to give us your credit card details, you can try Amezmo and we are confident that you will like it more than anything. 
+ Customer’s trust is almost everything for us, that’s why we are providing the 30-day free trial and you don’t have to give us your credit card details, you can try Amezmo and we are confident that you will like it more than anything.
 
 #### Quick Links
  - Official Website of [Amezmo](https://www.amezmo.com/).

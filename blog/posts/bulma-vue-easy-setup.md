@@ -1,6 +1,7 @@
 ---
 title: Bulma + Vue = Easy Setup
-url: How to setup Bulma with Vue 
+url: How to setup Bulma with Vue
+carn: none
 date: 2019-10-31T07:54:29.295Z
 tags:
   - vue
@@ -9,14 +10,14 @@ tags:
 ---
 I am learning VueJs nowadays and it's Awesome! VueJS community is very strong, I think I can also contribute to it by writing this post.
 
-[Bulma.css](http://bulma.io) is the main driver right now to make responsive designs and it's very customizable and modular as they say, You can easily integrate it into VueJS workflow. It's not like just using the cdnjs version, you can customize the SaSS variables to give Bulma your own theme or almost control everything from the border's color to the table header's padding with Bulma SaSS variables. 
+[Bulma.css](http://bulma.io) is the main driver right now to make responsive designs and it's very customizable and modular as they say, You can easily integrate it into VueJS workflow. It's not like just using the cdnjs version, you can customize the SaSS variables to give Bulma your own theme or almost control everything from the border's color to the table header's padding with Bulma SaSS variables.
 #### 1 . You have to install VueJs with CSS Preprocessors Sass with Node-Sass or Dart-Sass
-You can read this beautifully written article : [https://dev.to/helleworld_/integrating-dart-node-sass-in-vuejs-4o39](https://dev.to/helleworld_/integrating-dart-node-sass-in-vuejs-4o39) 
+You can read this beautifully written article : [https://dev.to/helleworld_/integrating-dart-node-sass-in-vuejs-4o39](https://dev.to/helleworld_/integrating-dart-node-sass-in-vuejs-4o39)
 
 #### 2 . Install Bulma First
 Na Na Na, the CDNJS will not work here. you have to install it through npm :
 ```
-    npm install bulma  
+    npm install bulma
 ```
 OR
 ```
@@ -24,7 +25,7 @@ OR
 ```
 Now Check out the `package.json` you will find Bulma there in dependencies
 
-#### 3. Now you can create a folder or place the SaSS file in `/assets` 
+#### 3. Now you can create a folder or place the SaSS file in `/assets`
 make a file named whatever and place wherever in `/src' with `.scss` file extension.
 
 #### 4. Open the Sass File and setup Bulma

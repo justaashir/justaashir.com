@@ -1,6 +1,7 @@
 ---
 title: 'Awesome Tools and Resources I Found on Twitter '
 url: tools from twitter
+carn: none
 date: 2019-09-22T07:30:37.142Z
 tags:
   - twitter
@@ -23,7 +24,7 @@ I was just surfing through Twitter, I am following [Guillermo ](https://twitter.
 
 ![PracticeJs](https://thepracticaldev.s3.amazonaws.com/i/3qh4gj02lvtpc5tgt4h5.png)
 ### [PracticeJs](https://practicejs.com/)
-Very Good Collection of Online Exercises built by [Duane Hilton](https://duanehilton.com/), You may have heard the name of this, It was featured on the HomePage of [HackerNews](https://news.ycombinator.com/). if you want to do some challenges in Javascript then try it. 
+Very Good Collection of Online Exercises built by [Duane Hilton](https://duanehilton.com/), You may have heard the name of this, It was featured on the HomePage of [HackerNews](https://news.ycombinator.com/). if you want to do some challenges in Javascript then try it.
 
 
 ![Screenshot of Undesign](https://thepracticaldev.s3.amazonaws.com/i/ihub4sk8mj5cv9wozy3a.png)

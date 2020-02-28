@@ -2,6 +2,7 @@
 title: I Love These CSS Tricks - Manage your CSS Much Better
 url: Some CSS Tricks to get your work done.
 date: 2019-10-06T07:40:03.683Z
+carn: none
 tags:
   - tricks
   - lists
@@ -14,7 +15,7 @@ You can organize your CSS Sections Like This:
 ```html
 \* ------------------------------- *\
       #SECTION-TITLE
-  /* ----------------------------- */ 
+  /* ----------------------------- */
 ```
 The title of the section is prefixed with a hash (#) symbol to allow us to perform more targeted searches (e.g. grep, etc.): instead of searching for just SECTION-TITLE—which may yield many results—a more scoped search of #SECTION-TITLE should return only the section in question.
 
@@ -33,13 +34,13 @@ It can really help you understand properties better and easily readable.
 
 ----
 #### Organizing Classes
-This is not a CSS Trick but it's somehow related to CSS, and it will only work if you are using HTML attributes with quotes (single or double). 95% of coders use quotes for attributes for better support. You can organize CSS Classes by using [ ] Square Brackets. 
+This is not a CSS Trick but it's somehow related to CSS, and it will only work if you are using HTML attributes with quotes (single or double). 95% of coders use quotes for attributes for better support. You can organize CSS Classes by using [ ] Square Brackets.
 
 ```html
 div class="[ box box-green] [ bio bio-long ]">
 ```
 
-It will be really helpful to organize Custom Classes and Framework Classes differently. 
+It will be really helpful to organize Custom Classes and Framework Classes differently.
 
 #### Specificity and Readability
 ```css

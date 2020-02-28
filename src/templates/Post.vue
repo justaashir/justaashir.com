@@ -35,7 +35,7 @@ export default {
   metaInfo() {
     return {
       title: this.$page.post.title,
-      meta: [{ link: [{ rel: "canonical", href: this.$page.post.carn }] }]
+      meta: [{ link: [{ rel: "canonical", href: this.$page.post.carn  }] }]
     };
   }
 };

@@ -1,15 +1,16 @@
 ---
 title: 'Fill up your portfolio with meaningful projects, Use these APIs '
 url: free-apis-for-projects
+carn: none
 date: 2020-02-09T07:31:21.835Z
 tags:
   - APIs
   - lists
   - projects
 ---
-Hi,  You should be filling up your portfolio with new shiny projects, then just landing pages of dummy websites. 
+Hi,  You should be filling up your portfolio with new shiny projects, then just landing pages of dummy websites.
 People want to see a real-world app with all the data, they want to feel it and they don't just want lorem ipsum.
-So It's time for you to use an Open API to create a real-world project. You can create a project with these APIs using Vanilla JS, JQuery, VueJS, React or even Angular. 
+So It's time for you to use an Open API to create a real-world project. You can create a project with these APIs using Vanilla JS, JQuery, VueJS, React or even Angular.
 You just need to fetch the data from the APIs and then use it, you can pass different parameters to give the users dynamic search functionality or filter and sorting.
 
 Let's Start

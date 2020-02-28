@@ -3,6 +3,7 @@ title: >-
   How I created my portfolio + blog website easily with Gridsome - Ultimate
   guide for Gridsome development  Part 1
 url: part-1-gridsome-ulitmate-guide-2020
+carn: none
 date: 2020-01-30T14:57:39.018Z
 tags:
   - gridsome
@@ -14,11 +15,11 @@ I have successfully created my website with [Gridsome](https://www.gridsome.com)
 
 ### Gridsome Docs are Boring
 
-This is just my personal opinion, I didn't like the [docs](https://gridsome.org/docs/). It will not help you while creating a real-world example.  please contribute to the docs to improve it if you can. 
+This is just my personal opinion, I didn't like the [docs](https://gridsome.org/docs/). It will not help you while creating a real-world example.  please contribute to the docs to improve it if you can.
 
 ### The best way to use Gridsome.
 
-This is my personal opinion. if you're looking to make a simple blog with markdown and you do care about custom design, don't use any starter because you'll get scared of lots of unfamiliar things.  just use a simple boilerplate with no-design. It will take you a lot much time to modify things than setup from scratch. 
+This is my personal opinion. if you're looking to make a simple blog with markdown and you do care about custom design, don't use any starter because you'll get scared of lots of unfamiliar things.  just use a simple boilerplate with no-design. It will take you a lot much time to modify things than setup from scratch.
 
 1. First Create your whole blog project in Vue with all the design and things setup.
 2. later it will just take you 15-20 minutes to integrate gridsome, follow the tutorial below.
@@ -33,13 +34,13 @@ First install the latest version of gridsome cli and wait for it to install corr
 
 **Yarn:** `yarn global add @gridsome/cli`
 
-#### Generate a new project 
+#### Generate a new project
 
 first make sure you've installed gridsome and then generate a new project by running this:
 
 `gridsome create my-website`
 
-It will then create a new folder with the gridsome installed. what it exactly do is clone the repository and then delete the .git and .gitignore for you and run a npm install. 
+It will then create a new folder with the gridsome installed. what it exactly do is clone the repository and then delete the .git and .gitignore for you and run a npm install.
 
 ##### Some problems usually happens in this step:
 
@@ -134,7 +135,7 @@ module.exports = {
 
 
 
-That's all for the first part , you have to wait a little for the second part where I'll explain how to setup the templates and query the post with front-matter. 
+That's all for the first part , you have to wait a little for the second part where I'll explain how to setup the templates and query the post with front-matter.
 
 In 3rd part we'll finalize the website and deploy it on Netlify and setup a netlify form.
 

@@ -1,6 +1,7 @@
 ---
 title: Do Design Systems prevent creativity? Let's Discuss about a question
 url: Design Systems are preventing creativity
+carn: none
 date: 2019-10-27T07:51:56.300Z
 tags:
   - discuss
@@ -12,7 +13,7 @@ Design System is a comprehensive guide for project design – a collection of ru
 
 Design Systems are often called the single source of truth for the team involved in product creation. It allows the team to design, develop and maintain the quality of the product.
 
-So I read this on Twitter : 
+So I read this on Twitter :
 I was like how to answer this question? So Design Systems do prevent creativity because it's needed to generate more products than just making a perfect button. Every time you try to create a new button from scratch, your mind will generate a new type of button and you will find your previous work waste. It's much about solving the problems by designing not just designing for good looks.
 
 this concept applies to the Frameworks too, Design Frameworks created by companies so their website looks the same to provide a better user experience but if you try to read the pros and cons of the Bootstrap and other Frameworks, You will find this point in cons that websites look same. Google Material Design is the hard work of many years by the creative team.

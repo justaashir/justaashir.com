@@ -3,6 +3,7 @@ title: >-
   How to increase your chances of landing interviews at Google, Facebook,
   Netflix?
 url: get-an-interview-at-google
+carn: none
 date: 2020-02-23T05:29:07.295Z
 tags:
   - google
@@ -32,7 +33,7 @@ It's not recommended, but sometimes this can work like a charm. This is how it w
 ### 2. Get referrals
 This makes sure that your resume will reach the recruiters. But what if you don’t know anyone at a large tech firm and don’t have connections?
 
-[This site offers employee referrals](https://www.rooftopslushie.com/) to top companies such as Google and Facebook. I like how developers screen your resume, instead of recruiters who may not be technical and usually look for keywords/big names. 
+[This site offers employee referrals](https://www.rooftopslushie.com/) to top companies such as Google and Facebook. I like how developers screen your resume, instead of recruiters who may not be technical and usually look for keywords/big names.
 
 ### 3. Personal Projects
 If you have some popular personal projects, or you ran up a small community, then this can heavily increase the chances to land the interview.
@@ -63,5 +64,3 @@ Try again and again, get referrals, send emails, make personal projects and make
 Follow me, cause I want more followers.
  - Twitter: [twitter.com/@justaashir](twitter.com/justaashir)
  - Github : [github.com/justaashir](github.com/justaashir)
-
-

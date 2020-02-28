@@ -3,12 +3,13 @@ title: >-
   It was really easy than I was thinking! Learning Different Things in Web
   Development - Videos from Youtube
 url: Why Youtube is good for learning?
+carn: none
 date: 2019-10-01T07:37:16.468Z
 tags:
   - lists
   - learning
 ---
-Lots of things are really easy then we think, but most of our Instructors and Teachers drop the idea of explaining these Programming Concepts and Most Students also thinks that if it's not related to coding, then why to learn it. But I think that mindset is much important than hand-coding and skipping those lessons will really help you later and learning them now is much better for you. 
+Lots of things are really easy then we think, but most of our Instructors and Teachers drop the idea of explaining these Programming Concepts and Most Students also thinks that if it's not related to coding, then why to learn it. But I think that mindset is much important than hand-coding and skipping those lessons will really help you later and learning them now is much better for you.
 ___
 These are some of the cool things that I learned, and are really useful:
 ####In Javascript
@@ -18,7 +19,7 @@ Advanced Javascript is much powerful than any language out there, it's really be
  - Me : This was always confusing for me.
  - You : What was confusing for you?
 
-Ya **this** was a bad joke, again "this". So just learned it here : 
+Ya **this** was a bad joke, again "this". So just learned it here :
 
 [![](http://img.youtube.com/vi/zE9iro4r918/0.jpg)](http://www.youtube.com/watch?v=zE9iro4r918 "")
 
@@ -32,7 +33,7 @@ CSS is much easier than Javascript but sometimes it can be overwhelming, SO ther
 [![(http://img.youtube.com/vi/gD3G67oPg-w/0.jpg)](http://www.youtube.com/watch?v=gD3G67oPg-w "")
 
  - The Different CSS Units
-   It's really the most important topic to learn in CSS (I think!). So I have learned it. This was helpful for me : 
+   It's really the most important topic to learn in CSS (I think!). So I have learned it. This was helpful for me :
 [![(http://img.youtube.com/vi/Cb1-CXUiaCM/0.jpg)](http://www.youtube.com/watch?v=Cb1-CXUiaCM "")
 
 #### Design Theory

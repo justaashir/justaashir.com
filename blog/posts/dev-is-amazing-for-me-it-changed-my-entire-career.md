@@ -1,6 +1,7 @@
 ---
 title: 'DEV is Amazing for me, it changed my entire career'
 url: DEV is amazing for newcomers like me
+carn: none
 date: 2020-01-29T07:57:57.598Z
 tags:
   - DEV
@@ -25,7 +26,7 @@ I wrote 5 more articles after that about my [design approach](https://dev.to/jus
 
 #### Life Changer
 ![Alt Text](https://thepracticaldev.s3.amazonaws.com/i/x23jge8ac792s53mb1aq.png)
-[The article](https://dev.to/justaashir/web-development-projects-that-can-definitely-get-you-a-job-in-2019-2020-4c36) I posted because to complete the week for 8-week Badge, it was not planned at all. I posted it just to fill up space. I slept that night after posting it, I woke up in the morning and was shocked by seeing the reaction and views count, it crossed 150+ reactions it's first 8 hours. I got so much traffic everywhere, I was happy to see it after a very long time but was not expecting it to perform a lot better and grows up to the most popular post of the week, with 850+ reactions and 40000+ views. Some of the Bloggers contacted me to write on their blog, I got my first internship as a VueJs Front End Web developer and I have to say it changed my life. 
+[The article](https://dev.to/justaashir/web-development-projects-that-can-definitely-get-you-a-job-in-2019-2020-4c36) I posted because to complete the week for 8-week Badge, it was not planned at all. I posted it just to fill up space. I slept that night after posting it, I woke up in the morning and was shocked by seeing the reaction and views count, it crossed 150+ reactions it's first 8 hours. I got so much traffic everywhere, I was happy to see it after a very long time but was not expecting it to perform a lot better and grows up to the most popular post of the week, with 850+ reactions and 40000+ views. Some of the Bloggers contacted me to write on their blog, I got my first internship as a VueJs Front End Web developer and I have to say it changed my life.
 
 ### Crossed the 4000 followers and Got 4 Badges
 I crossed 4000 followers on DEV then I think It's a good idea to start earning some side-income by writing for others, I had 20 credits at that time because of the badges of "Most Popular Vue Editor", "4 and 8 Week Streak". I posted a listing on DEV and it really helped me, I wrote for so many blogs as a ghostwriter and wrote a post for [Codewall about Kubernetes](https://www.codewall.co.uk/what-is-kubernetes-what-is-it-used-for/), Wrote about [Amezmo](https://www.amezmo.com/) and many more.
