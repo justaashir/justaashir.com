@@ -6,8 +6,7 @@
         <h1>{{$page.post.title}}</h1>
         <tags :tags="$page.post.tags" />
       </header>
-      <section v-html="$page.post.content" class="post">
-      </section>
+      <section v-html="$page.post.content" class="post"></section>
     </div>
   </Layout>
 </template>
@@ -16,6 +15,7 @@ query ($path: String!) {
   post: post (path: $path) {
     title
     url
+    carn
     date(format: "D MMMM YYYY")
      tags {
       id
@@ -27,24 +27,25 @@ query ($path: String!) {
 }
 </page-query>
 <script>
-import tags from '~/components/PostTags'
+import tags from "~/components/PostTags";
 export default {
   components: {
     tags
   },
   metaInfo() {
     return {
-      title: this.$page.post.title
+      title: this.$page.post.title,
+      meta: [{ link: [{ rel: "canonical", href: this.$page.post.carn }] }]
     };
   }
 };
 </script>
 <style scoped lang="scss">
-.post{
-  img{
-    display:block;
-    text-align:center;
-    max-width:100%;
+.post {
+  img {
+    display: block;
+    text-align: center;
+    max-width: 100%;
   }
 }
 </style>

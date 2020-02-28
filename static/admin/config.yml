@@ -12,6 +12,7 @@ collections:
     fields:
       - { label: "title", name: "title", widget: "string" }
       - { label: "url", name: "url", widget: "string" }
+      - { label: "carn", name: "carn", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
       - {
