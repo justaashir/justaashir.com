@@ -13,7 +13,8 @@
         <g-link to="/contact" class="link">Contact</g-link>
         <a href="https://www.twitter.com/justaashir" class="link"><img src="@/assets/icons/twitter.png" alt=""></a>
         <a href="https://www.github.com/justaashir" class="link"><img src="@/assets/icons/github.png" alt=""></a>
-         <a href="https://www.dev.to/justaashir" class="link"><img src="@/assets/icons/dev.png" alt=""></a>
+        <a href="https://www.dev.to/justaashir" class="link"><img src="@/assets/icons/dev.png" alt=""></a>
+         <a href="https://www.youtube.com/channel/UC3zXkVhnaJfBigCsP6d0QSQ" class="link"><img src="https://cdn.iconscout.com/icon/free/png-256/youtube-85-226402.png" alt=""></a>
       </div>
     </div>
   </nav>
