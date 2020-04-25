@@ -52,4 +52,4 @@ There is another thing called [Buefy](buefy.org), Ali wrote a fantastic post abo
 
 Bye Bye, I'm active on Twitter : [twitter.com/justaashir](https://www.twitter.com/justaashir)
 
-Also go read how [Renetal](https://www.renetal.com) is helping rental businesses to digitize thier operations seamlessly
+Also go read how [Renetal](https://renetal.com) is helping rental businesses to digitize thier operations seamlessly
