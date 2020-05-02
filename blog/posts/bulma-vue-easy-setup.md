@@ -48,8 +48,8 @@ I don't know if it's the right way to connect the Bulma with VueJs, but it's wor
 require('./scss/main.scss');
 ```
 
-There is another thing called [Buefy](buefy.org), Ali wrote a fantastic post about this : <https://dev.to/aligoren/bulma-based-ui-components-for-vuejs-41i4>.
+There is another thing called [Buefy](https://www.buefy.org), Ali wrote a fantastic post about this : <https://dev.to/aligoren/bulma-based-ui-components-for-vuejs-41i4>.
 
-Bye Bye, I'm active on Twitter : [twitter.com/justaashir](https://www.twitter.com/justaashir)
+Bye Bye, I'm active on Twitter : [https://www.twitter.com/justaashir](https://www.twitter.com/justaashir)
 
-Also go read how [Renetal](https://renetal.com) is helping rental businesses to digitize thier operations seamlessly
+Also go read how [Renetal](nttps://renetal.com) is helping rental businesses to digitize their operations seamlessly
