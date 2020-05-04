@@ -1,6 +1,6 @@
 <template>
   <footer>
-     <a href="https://renetal.com">Sponsered by renetal</a>
+     <a href="https://renetal.com">Sponsored by renetal</a>
   </footer>
 </template>
 
