@@ -1,7 +1,4 @@
 <template>
-  <footer>
-     <a href="https://renetal.com">Sponsored by renetal</a>
-  </footer>
 </template>
 
 <script>
