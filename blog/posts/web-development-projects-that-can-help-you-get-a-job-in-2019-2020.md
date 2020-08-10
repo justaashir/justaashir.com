@@ -3,6 +3,8 @@ title: Web Development Projects That can help You Get a Job in 2019-2020
 url: Web Development Projects to get a Job in 2019-2020
 date: 2019-10-10T07:43:08.583Z
 carn: none
+description: >-
+  Most people have expertise in Web Development and really wanna get their first job???? The Recruiters wanna see the Portfolios fill with previous job Experience or some Useful Working Personal Projects. So today I am going to tell you about some Serious projects you can add in your portfolio and can easily get a job in 2020.
 tags:
   - web development
   - projects

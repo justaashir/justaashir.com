@@ -1,7 +1,9 @@
 ---
 title: Just Code - Front End Code-camp for begineers
 url: just-code
-carn: /
+carn: none
+description: >-
+  Front End Web Developer, Roadmap for people who want to learn the most useful and good parts of front-end web development in an organized way. Series of Live-streams and code-camp(inc.)
 date: 2020-04-23T05:26:32.061Z
 tags:
   - youtube

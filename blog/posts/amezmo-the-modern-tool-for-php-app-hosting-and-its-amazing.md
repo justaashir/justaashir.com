@@ -2,6 +2,9 @@
 title: Amezmo - The modern tool for PHP app hosting and it's amazing
 url: Amezmo - PHP app hosting platform
 carn: https://dev.to/justaashir/amezmo-the-modern-tool-for-php-app-hosting-and-it-s-amazing-20lj
+description: >-
+  The modern tool to automate your deploy process, so you focus on your apps not servers. Just Connect your‌ Github, and Amezmo will deploy it to an internal domain, with Private Subnet IP.
+  There is no extra step for deployment.  you just push your code, and we at Amezmo handle all the servers.
 date: 2019-11-13T07:56:38.738Z
 tags:
   - php

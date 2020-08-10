@@ -1,6 +1,6 @@
 module.exports = {
   siteName: 'Justaashir',
-  siteDescription: "Front End Web Developer, Technical Writer from Pakistan. I design perfect UI solution, with VueJs and JAMSTACK.",
+  siteDescription: "Writing about everything intresting in web development: Vue, TailwindCSS, Node, MongoDB and lot more... Making digital content everyday.",
   siteUrl: 'https://www.justaashir.com',
   plugins: [
     {
@@ -19,9 +19,9 @@ module.exports = {
             create: true
           }
         },
-        
+
       },
-      
+
     },
     {
       use: '@gridsome/plugin-google-analytics',
@@ -30,9 +30,12 @@ module.exports = {
       }
     },
     {
+      use: "gridsome-plugin-tailwindcss",
+    },
+    {
       use: '@gridsome/plugin-sitemap',
       options: {
-        cacheTime: 600000, 
+        cacheTime: 600000,
         // exclude: ['/exclude-me'], 404
         config: {
           '/blog/*': {
@@ -50,7 +53,7 @@ module.exports = {
         }
       }
     }
- 
+
   ],
   templates: {
     Post: '/blog/:url',

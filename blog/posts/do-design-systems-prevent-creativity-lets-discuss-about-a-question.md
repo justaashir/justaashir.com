@@ -3,6 +3,8 @@ title: Do Design Systems prevent creativity? Let's Discuss about a question
 url: Design Systems are preventing creativity
 carn: none
 date: 2019-10-27T07:51:56.300Z
+description: >-
+  Design Systems are often called the single source of truth for the team involved in product creation. It allows the team to design, develop and maintain the quality of the product.
 tags:
   - discuss
   - debate

@@ -2,6 +2,9 @@
 title: I'm taking a break! Summary of my Life
 url: breaking-news
 carn: 'https://dev.to/justaashir/i-m-taking-a-break-summary-of-my-life-21b2'
+description: >-
+  It's been a long day without you my friend and I'm back(but with a piece of bad news).
+  I started blogging and maintenance of social presence because I wanted some people to hear me, and wanted to tell the people of my presence and then get a fulfilling remote job here because it's not possible for me to get a local job. why? Reasons:
 date: 2020-03-08T16:32:24.736Z
 ---
 Hi,
@@ -32,4 +35,3 @@ I know what to do, I should not grab my growth down by myself and do it less but
 So I'm taking an official break because of my school exams for 9th class, not because of the startup that was an unofficial break(bug in my schedule). I will also take 3 days off from a startup on Biology/Chemistry. This will be the longest break in the last 3 months.
 
 So Let me know your thoughts...
-

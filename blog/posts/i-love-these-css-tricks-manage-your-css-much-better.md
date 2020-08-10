@@ -3,6 +3,8 @@ title: I Love These CSS Tricks - Manage your CSS Much Better
 url: Some CSS Tricks to get your work done.
 date: 2019-10-06T07:40:03.683Z
 carn: none
+description: >-
+  I just featured 3 tricks and they are really useful. You can read the entire Style Guide here
 tags:
   - tricks
   - lists

@@ -2,6 +2,8 @@
 title: Sorry for the Interruption but I'm Lost
 url: i-am-back
 carn: https://dev.to/justaashir/sorry-for-the-interruption-but-i-m-lost-4n61
+description: >-
+  As you can see, I put lots of things in my bucket at the same time and now it's almost a month and I'm unable to maintain this. So the Timeline Looks something like this...
 date: 2020-04-20T02:42:30.337Z
 tags:
   - youtube
@@ -13,7 +15,7 @@ Hi, I'm Aashir Aamir Khan - Front End Web Developer/Growth Hacker/Startup Guy/Te
 
 As you can see, I put lots of things in my bucket at the same time and now it's almost a month and I'm unable to maintain this. So the Timeline Looks something like this...
 
-### Blogging 
+### Blogging
 - 2019 = Front End Web Developer, tired of Freelance work
 - SEP 2019 = Started writing on DEV, got my job at startup because of DEV
 - OCT 2019 = Got my first paid writing gig, and then second
@@ -46,8 +48,8 @@ As you can see, I put lots of things in my bucket at the same time and now it's 
 - APR 2020 = ![APR](https://dev-to-uploads.s3.amazonaws.com/i/1fv8makcpe1vqidvjhzj.png)
 
 ### [WEBSITE/BLOG](https://www.justaashir.com)
-- JAN 2020 = Launch 
-- 8th MAR 2020 = Last Updated 
+- JAN 2020 = Launch
+- 8th MAR 2020 = Last Updated
 - Analytics of the Last 90 Days is quite shocking, even this month is quite impressive...
 - people still visit my website
 ![Analytics](https://dev-to-uploads.s3.amazonaws.com/i/smc3379l8r06pgatzoxi.png)
@@ -69,10 +71,3 @@ I learned TailwindCSS and now I love it more than any CSS.
  - [Website/Blog](https://www.justaashir.com)
  - [Youtube](https://www.youtube.com/channel/UC3zXkVhnaJfBigCsP6d0QSQ)
  - [Codepen Profile](https://codepen.io/justaashir)
-
-
-
-
-
-
- 

@@ -3,6 +3,8 @@ title: What is Going on With Static Site Generators? Why the numbers are increas
 url: static site generators are increasing
 date: 2019-10-19T07:46:38.473Z
 carn: none
+description: >-
+  SSGs are increasing day by day, what you think?
 tags:
   - Static Site Generator
   - Debate

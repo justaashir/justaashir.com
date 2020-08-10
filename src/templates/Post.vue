@@ -1,23 +1,29 @@
 <template>
+<div>
   <Layout>
-    <div class="j-page-container">
+    <div>
       <header>
-        <h6 class="j-color-primary j-text-bold">{{$page.post.date}}</h6>
-        <h1>{{$page.post.title}}</h1>
-        <tags :tags="$page.post.tags" />
+        <h6 class="text-primary font-mono mb-2 text-xl">{{ $page.post.date }}</h6>
+        <h1 class="text-white font-bold text-3xl md:text-5xl">{{ $page.post.title }}</h1>
+        <tags :tags="$page.post.tags" class="md:mt-4" />
       </header>
-      <section v-html="$page.post.content" class="post"></section>
+
+      <main class="mt-8 prose text-white max-w-none" v-html="$page.post.content">
+      </main>
     </div>
   </Layout>
+</div>
 </template>
+
 <page-query>
 query ($path: String!) {
   post: post (path: $path) {
     title
+    description
     url
     carn
     date(format: "D MMMM YYYY")
-     tags {
+    tags {
       id
       title
       path
@@ -26,28 +32,24 @@ query ($path: String!) {
   }
 }
 </page-query>
+
 <script>
-import tags from "~/components/PostTags";
+import tags from "@/components/PostTags";
 export default {
   components: {
-    tags
+    tags,
   },
   metaInfo() {
     return {
       title: this.$page.post.title,
-      link: [
-        { rel: "canonical", href: this.$page.post.carn  }
-      ]
+      meta: [
+      {
+        name: "description",
+        content: this.$page.post.description,
+      },
+    ],
+      link: [{ rel: "canonical", href: this.$page.post.carn }],
     };
-  }
+  },
 };
 </script>
-<style scoped lang="scss">
-.post {
-  img {
-    display: block;
-    text-align: center;
-    max-width: 100%;
-  }
-}
-</style>

@@ -4,6 +4,8 @@ title: >-
   Development - Videos from Youtube
 url: Why Youtube is good for learning?
 carn: none
+description: >-
+  Lots of things are really easy then we think, but most of our Instructors and Teachers drop the idea of explaining these Programming Concepts and Most Students also thinks that if it's not related to coding, then why to learn it. But I think that mindset is much important than hand-coding and skipping those lessons will really help you later and learning them now is much better for you.
 date: 2019-10-01T07:37:16.468Z
 tags:
   - lists
