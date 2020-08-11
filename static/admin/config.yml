@@ -10,14 +10,13 @@ collections:
     create: true
     slug: "{{slug}}"
     fields:
-      - { label: "title", name: "title", widget: "string" }
-      - { label: "description", name: "description", widget: "string" }
-      - { label: "url", name: "url", widget: "string" }
-      - { label: "carn", name: "carn", widget: "string" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Url", name: "url", widget: "string" }
+      - { label: "Carn", name: "carn", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
       - {
-        label: "tags",
+        label: "Tags",
         name: "tags",
         widget: "list",
         field: { name: , label: tag, widget: string },
