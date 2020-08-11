@@ -35,8 +35,5 @@ query {
 }
 </static-query>
 
-<style>
-.dis-text {
-  writing-mode: vertical-rl;
-}
-</style>
+
+<style src="../assets/css/global.css" />

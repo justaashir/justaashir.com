@@ -162,4 +162,8 @@ export default {
 
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+.dis-text {
+  writing-mode: vertical-rl;
+}
 </style>
