@@ -4,11 +4,11 @@
     <Layout>
         <div class="md:w-1/3 w-full">
           <header>
-            <img src="/profile-img.png" alt="Profile" class="ml-12" />
-            <img src="/logo.png" alt="Logo" class="mt-4 max-w-sm w-full" />
+            <img src="/profile-img.png" alt="Profile" />
+            <img src="/logo.png" alt="Logo" class="mt-4 md:w-full w-64 max-w-xs" />
           </header>
           <section class="mt-16">
-            <h3 class="uppercase text-white font-medium text-3xl">Career Objectives</h3>
+            <h3 class="uppercase text-white font-medium text-xl md:text-3xl">Career Objectives</h3>
             <div class="h-1 bg-primary w-48 my-4"></div>
             <p
               class="text-white"
@@ -16,7 +16,7 @@
           </section>
 
           <section class="mt-16">
-            <h3 class="uppercase text-white font-medium text-3xl">Specializations</h3>
+            <h3 class="uppercase text-white font-medium text-xl md:text-3xl">Specializations</h3>
             <div class="h-1 bg-primary w-48 my-4"></div>
             <ul class="text-white list-disc list-inside">
               <li>Front End Design (HTML, CSS, Figma, Sass)</li>
@@ -32,7 +32,7 @@
           </section>
 
           <section class="mt-16">
-            <h3 class="uppercase text-white font-medium text-3xl">Contact Info:</h3>
+            <h3 class="uppercase text-white font-medium text-xl md:text-3xl">Contact Info:</h3>
             <div class="h-1 bg-primary w-48 my-4"></div>
             <div class="text-white">
               <a
@@ -58,12 +58,12 @@
         </div>
         <div class="md:w-2/4 w-full">
           <section class="mt-16 md:mt-0">
-            <h3 class="uppercase text-white font-medium text-3xl">Work Summary</h3>
+            <h3 class="uppercase text-white font-medium text-xl md:text-3xl">Work Summary</h3>
             <div class="h-1 bg-primary w-48 my-4"></div>
 
             <div class="mt-8">
-              <h4 class="font-medium text-primary text-2xl">Junior Front-end engineer</h4>
-              <h5 class="text-xl text-primary">
+              <h4 class="font-medium text-primary text-xl md:text-2xl">Junior Front-end engineer</h4>
+              <h5 class="md:text-xl text-primary">
                 <a href="https://renetal.com" class="hover:underline">Renetal</a> |
                 <i>2019 - JULY 2020</i>
               </h5>
@@ -75,8 +75,8 @@
             </div>
 
             <div class="mt-8">
-              <h4 class="font-medium text-primary text-2xl">Founder &lt; CEO</h4>
-              <h5 class="text-xl text-primary">
+              <h4 class="font-medium text-primary text-xl md:text-2xl">Founder &lt; CEO</h4>
+              <h5 class="md:text-xl text-primary">
                 <a href="https://justifyagency.com" class="hover:underline">Justify Agency</a> |
                 <i>2020 - Present</i>
               </h5>
@@ -88,18 +88,18 @@
             </div>
           </section>
           <section class="mt-16">
-            <h3 class="uppercase text-white font-medium text-3xl">Freelance &amp; Other fun stuff</h3>
+            <h3 class="uppercase text-white font-medium text-xl md:text-3xl">Freelance &amp; Other fun stuff</h3>
             <div class="h-1 bg-primary w-48 my-4"></div>
 
             <div class="mt-8">
-              <h4 class="font-medium text-primary text-2xl">Shopify Freelance Associate</h4>
+              <h4 class="font-medium text-primary text-xl md:text-2xl">Shopify Freelance Associate</h4>
               <p
                 class="text-white"
               >Proud member of the shopify community, and their partner program. Setting up Shopify stores and making custom themes from a long time.</p>
             </div>
 
             <div class="mt-8">
-              <h4 class="font-medium text-primary text-2xl">
+              <h4 class="font-medium text-primary text-xl md:text-2xl">
                 <a href="https://dev.to/justaashir" class="hover:underline">DEV Community</a> (Volunteer & Technical Writer)
               </h4>
               <ul class="text-white list-disc list-inside mt-4">
@@ -111,11 +111,11 @@
             </div>
           </section>
           <section class="mt-16">
-            <h3 class="uppercase text-white font-medium text-3xl">Passion Projects</h3>
+            <h3 class="uppercase text-white font-medium text-xl md:text-3xl">Passion Projects</h3>
             <div class="h-1 bg-primary w-48 my-4"></div>
 
             <div class="mt-8">
-              <h4 class="font-medium text-primary text-2xl">
+              <h4 class="font-medium text-primary text-xl md:text-2xl">
                 <a href="https://tailwindcssuikit.com" class="hover:underline">Tailwind CSS Ui Kit</a>
               </h4>
               <p
@@ -124,7 +124,7 @@
             </div>
 
             <div class="mt-8">
-              <h4 class="font-medium text-primary text-2xl">
+              <h4 class="font-medium text-primary text-xl md:text-2xl">
                 <a href="https://remoteworkjar.com" class="hover:underline">RemoteWorkJar</a>
               </h4>
               <p
@@ -163,7 +163,10 @@ export default {
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
 
-.dis-text {
+
+@responsive {
+  .dis-text {
   writing-mode: vertical-rl;
+  }
 }
 </style>

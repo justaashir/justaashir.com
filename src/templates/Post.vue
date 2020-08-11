@@ -3,12 +3,12 @@
   <Layout>
     <div>
       <header>
-        <h6 class="text-primary font-mono mb-2 text-xl">{{ $page.post.date }}</h6>
-        <h1 class="text-white font-bold text-3xl md:text-5xl">{{ $page.post.title }}</h1>
+        <h6 class="text-primary font-mono mb-2 md:text-xl">{{ $page.post.date }}</h6>
+        <h1 class="text-white font-bold text-xl md:text-5xl">{{ $page.post.title }}</h1>
         <tags :tags="$page.post.tags" class="md:mt-4" />
       </header>
 
-      <main class="mt-8 prose text-white max-w-none" v-html="$page.post.content">
+      <main class="mt-8 prose text-white max-w-none break-words" v-html="$page.post.content">
       </main>
     </div>
   </Layout>
