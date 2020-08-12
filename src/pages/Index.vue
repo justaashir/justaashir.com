@@ -4,8 +4,8 @@
     <Layout>
         <div class="md:w-1/3 w-full">
           <header>
-            <img src="/profile-img.png" alt="Profile" />
-            <img src="/logo.png" alt="Logo" class="mt-4 md:w-full w-64 max-w-xs" />
+            <g-image src="/profile-img.png" alt="Profile" />
+            <g-image src="/logo.png" alt="Logo" class="mt-4 md:w-full w-64 max-w-xs" />
           </header>
           <section class="mt-16">
             <h3 class="uppercase text-white font-medium text-xl md:text-3xl">Career Objectives</h3>
