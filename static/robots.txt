@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://remoteworkjar.com/sitemap.xml
+Sitemap: https://justaashir.com/sitemap.xml
