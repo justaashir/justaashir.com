@@ -1,7 +1,4 @@
 module.exports = {
-  siteName: 'Justaashir',
-  siteDescription: "Writing about everything intresting in web development: Vue, TailwindCSS, Node, MongoDB and lot more... Making digital content everyday.",
-  siteUrl: 'https://www.justaashir.com',
   plugins: [
     {
       use: '@gridsome/source-filesystem',

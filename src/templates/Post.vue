@@ -2,6 +2,8 @@
   <div>
     <Layout>
       <div>
+
+        {{ $page.post.description }}
         <header>
           {{ $page.post.carn === '/'}}
           <h6 class="text-primary font-mono mb-2 md:text-xl">{{ $page.post.date }}</h6>
