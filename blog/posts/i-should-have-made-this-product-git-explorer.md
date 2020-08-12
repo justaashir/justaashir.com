@@ -23,4 +23,4 @@ It's too amazing, that I'm jealous that I should've made it before. Sometimes yo
 I've bookmarked this and already using it for 2 days now, and I wouldn't be shocked if you do the same.
 
 
-Follow me on Twitter, I post more sh*t there : [@justaashir](twitter.com/justaashir)
+Follow me on Twitter, I post more sh*t there : [@justaashir](https://twitter.com/justaashir)
