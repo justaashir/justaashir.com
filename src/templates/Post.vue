@@ -2,10 +2,7 @@
   <div>
     <Layout>
       <div>
-
-        {{ $page.post.description }}
         <header>
-          {{ $page.post.carn === '/'}}
           <h6 class="text-primary font-mono mb-2 md:text-xl">{{ $page.post.date }}</h6>
           <h1 class="text-white font-bold text-xl md:text-5xl">{{ $page.post.title }}</h1>
           <tags :tags="$page.post.tags" class="md:mt-4" />
