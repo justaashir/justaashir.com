@@ -1,7 +1,7 @@
 ---
 title: Sorry for the Interruption but I'm Lost
 url: i-am-back
-carn: / https://dev.to/justaashir/sorry-for-the-interruption-but-i-m-lost-4n61
+carn: https://dev.to/justaashir/sorry-for-the-interruption-but-i-m-lost-4n61
 description: >-
   As you can see, I put lots of things in my bucket at the same time and now it's almost a month and I'm unable to maintain this. So the Timeline Looks something like this...
 date: 2020-04-20T02:42:30.337Z
@@ -20,7 +20,7 @@ As you can see, I put lots of things in my bucket at the same time and now it's 
 - SEP 2019 = Started writing on DEV, got my job at startup because of DEV
 - OCT 2019 = Got my first paid writing gig, and then second
 - NOV 2019 = Lots of Traffic from DEV, Lots of Views and Followers
-- JAN 2020 = Started with New Year Resolution, Launched my [Portfolio/Blog](justaashir.com) and crossed 12,000 Followers on DEV.
+- JAN 2020 = Started with New Year Resolution, Launched my [Portfolio/Blog](https://justaashir.com) and crossed 12,000 Followers on DEV.
 - FEB 2020 = Paid Writing Gig - The Big One, and then spent all of my money to buy a heavy-duty laptop
 - MAR 2020 = Things started getting slow down, my heart was not in writing anymore, I don't know why...  I got the platform, I got the audience but why?
 - APR 2020 = Writing this post

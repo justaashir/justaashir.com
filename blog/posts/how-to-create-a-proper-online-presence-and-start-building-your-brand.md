@@ -16,7 +16,7 @@ Hi, are you looking for better opportunities and want to share your thoughts wit
 
 ## Choose a name
 
-Yes, this is not a typo. You've to name yourself on the internet, and it will impact all the things. Maybe your name is like "[Aashir Aamir Khan](justaashir.com)" or "[Kate Efimova](https://twitter.com/kefimochi)" or "[Kelly Vaughn](https://twitter.com/kvlly)". It'll be much easier for people to remember you by a short memorable reference than your name. So pick up a name that you do love and then use it everywhere from domain to all the social media to emails. be sure with that name and check out the availability everywhere.
+Yes, this is not a typo. You've to name yourself on the internet, and it will impact all the things. Maybe your name is like "[Aashir Aamir Khan](https://justaashir.com)" or "[Kate Efimova](https://twitter.com/kefimochi)" or "[Kelly Vaughn](https://twitter.com/kvlly)". It'll be much easier for people to remember you by a short memorable reference than your name. So pick up a name that you do love and then use it everywhere from domain to all the social media to emails. be sure with that name and check out the availability everywhere.
 
 *For Example:*
 

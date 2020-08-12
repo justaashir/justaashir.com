@@ -29,7 +29,7 @@ Reach out to your alumni! They will tell you the honest way to get the job, how 
 
 #### Cold email strategy
 It's not recommended, but sometimes this can work like a charm. This is how it works:
-- Some employees of the company will post about the job opening, on [Twitter](twitter.com) and LinkedIn.
+- Some employees of the company will post about the job opening, on [Twitter](https://twitter.com) and LinkedIn.
 - You should comment, DM, and email them and try to showcase your resume and projects to them.
 
 ### 2. Get referrals
@@ -64,5 +64,5 @@ Try again and again, get referrals, send emails, make personal projects and make
 
 #### Quick Links
 Follow me, cause I want more followers.
- - Twitter: [twitter.com/@justaashir](twitter.com/justaashir)
- - Github : [github.com/justaashir](github.com/justaashir)
+ - Twitter: [twitter.com/@justaashir](https://twitter.com/justaashir)
+ - Github : [github.com/justaashir](https://github.com/justaashir)
