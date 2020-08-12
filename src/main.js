@@ -25,14 +25,15 @@ export default function (Vue, { router, head, isClient }) {
   })
 
   head.meta.push({
+    property: 'og:url',
+    content: 'https://justaashir.com'
+  })
+
+  head.meta.push({
     property: 'og:type',
     content: 'website'
   })
 
-  head.meta.push({
-    property: 'og:title',
-    content: 'en_US'
-  })
 
   head.meta.push({
     property: 'site_name',
@@ -41,14 +42,15 @@ export default function (Vue, { router, head, isClient }) {
 
   head.meta.push({
     property: 'og:image',
-    content: 'https://justaashir.com/assets/meta-image.png'
+    content: 'https://justaashir.com/meta-image.png'
   })
+
 
 
   // Twitter
   head.meta.push({
     name: 'twitter:card',
-    content: 'summary'
+    content: 'summary_large_image'
   })
 
   head.meta.push({
@@ -58,7 +60,7 @@ export default function (Vue, { router, head, isClient }) {
 
   head.meta.push({
     name: 'twitter:image',
-    content: 'https://justaashir.com/assets/meta-image.png'
+    content: 'https://justaashir.com/meta-image.png'
   })
 
 

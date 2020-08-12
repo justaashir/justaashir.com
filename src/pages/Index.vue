@@ -140,22 +140,44 @@
 
 <script>
 export default {
-  metaInfo: {
-    title:
-      "Aashir Aamir Khan - Front end developer with love for technical writing |",
-    meta: [
-      {
-        name: "description",
-        content:
-          "Founder, VueJS Developer, Digital Content Creator, Technical Writer, Ui/Ux Branding",
-      },
-    ],
-    link: [
-      {
-        rel: "canonical",
-        href: "https://justaashir.com",
-      },
-    ],
+  data() {
+    return {
+      title: 'Aashir Aamir Khan - Front end developer with love for technical writing |',
+      description: 'Founder, VueJS Developer, Digital Content Creator, Technical Writer, Ui/Ux Branding'
+    }
+  },
+  metaInfo() {
+    return {
+      title: this.title,
+      meta: [
+        {
+          name: "description",
+          content: this.description,
+        },
+        {
+          property: "og:title",
+          content: this.title,
+        },
+        {
+          property: "og:description",
+          content: this.description,
+        },
+        {
+          name: "twitter:title",
+          content: this.title,
+        },
+        {
+          name: "twitter:description",
+          content: this.description,
+        },
+      ],
+      link: [
+        {
+          rel: "canonical",
+          href: "https://justaashir.com",
+        },
+      ],
+    };
   },
 };
 </script>

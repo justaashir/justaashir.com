@@ -35,25 +35,44 @@ export default {
   components: {
     tags,
   },
-  metaInfo: {
-    title: "Blog | VueJS, Node, TailwindCSS and career development",
-    meta: [
-      {
-        name: "description",
-        content:
-          "I write awesome content on some trending topics + some cool tips and tricks and tutorials on everything related to Web, Design and Mobile",
-      },
-      {
-        name: "author",
-        content: "Justaashir",
-      },
-    ],
-    link: [
-      {
-        rel: "canonical",
-        href: "https://justaashir.com/blog",
-      },
-    ],
+  data() {
+    return {
+      title: "Blog | VueJS, Node, TailwindCSS and career development",
+      description:  "I write awesome content on some trending topics + some cool tips and tricks and tutorials on everything related to Web, Design and Mobile",
+    }
+  },
+  metaInfo() {
+    return {
+      title: this.title,
+      meta: [
+        {
+          name: "description",
+          content: this.description,
+        },
+        {
+          property: "og:title",
+          content: this.title,
+        },
+        {
+          property: "og:description",
+          content: this.description,
+        },
+        {
+          name: "twitter:title",
+          content: this.title,
+        },
+        {
+          name: "twitter:description",
+          content: this.description,
+        },
+      ],
+      link: [
+        {
+          rel: "canonical",
+          href: "https://justaashir.com/blog",
+        },
+      ],
+    };
   },
 };
 </script>
