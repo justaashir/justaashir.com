@@ -36,6 +36,43 @@ query Tag ($id: ID!) {
 
 <script>
 export default {
-  metaInfo: {}
+  data() {
+    return {
+      description:  "",
+    }
+  },
+  metaInfo() {
+    return {
+      title: this.$page.tag.title,
+      meta: [
+        {
+          name: "description",
+          content: this.description,
+        },
+        {
+          property: "og:title",
+          content: this.$page.tag.title,
+        },
+        {
+          property: "og:description",
+          content: this.description,
+        },
+        {
+          name: "twitter:title",
+          content: this.$page.tag.title,
+        },
+        {
+          name: "twitter:description",
+          content: this.description,
+        },
+      ],
+      link: [
+        {
+          rel: "canonical",
+          href: `https://justaashir.com/tag/${this.$page.tag.title}`,
+        },
+      ],
+    };
+  },
 };
 </script>

@@ -53,4 +53,4 @@ We use CSS selectors to specify like this `ul.nav` or `div.nav`. But sometimes y
 
 ---
 I just featured 3 tricks and they are really useful. You can read the entire Style Guide here [https://cssguidelin.es/](https://cssguidelin.es/). That's all There are some of The Information about me:
- - I'm kinda active on Twitter : [www.twitter.com/justaashir](www.twitter.com/justaashir)
+ - I'm kinda active on Twitter : [twitter.com/justaashir](https://twitter.com/justaashir)
