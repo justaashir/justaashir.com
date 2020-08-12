@@ -1,4 +1,5 @@
 module.exports = {
+  siteUrl: 'https://justaashir.com',
   plugins: [
     {
       use: '@gridsome/source-filesystem',
