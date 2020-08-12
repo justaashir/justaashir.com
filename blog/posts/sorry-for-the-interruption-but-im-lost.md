@@ -1,7 +1,7 @@
 ---
 title: Sorry for the Interruption but I'm Lost
 url: i-am-back
-carn: https://dev.to/justaashir/sorry-for-the-interruption-but-i-m-lost-4n61
+carn: / https://dev.to/justaashir/sorry-for-the-interruption-but-i-m-lost-4n61
 description: >-
   As you can see, I put lots of things in my bucket at the same time and now it's almost a month and I'm unable to maintain this. So the Timeline Looks something like this...
 date: 2020-04-20T02:42:30.337Z

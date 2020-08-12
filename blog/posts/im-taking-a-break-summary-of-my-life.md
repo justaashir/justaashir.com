@@ -1,7 +1,7 @@
 ---
 title: I'm taking a break! Summary of my Life
 url: breaking-news
-carn: 'https://dev.to/justaashir/i-m-taking-a-break-summary-of-my-life-21b2'
+carn: / 'https://dev.to/justaashir/i-m-taking-a-break-summary-of-my-life-21b2'
 description: >-
   It's been a long day without you my friend and I'm back(but with a piece of bad news).
   I started blogging and maintenance of social presence because I wanted some people to hear me, and wanted to tell the people of my presence and then get a fulfilling remote job here because it's not possible for me to get a local job. why? Reasons:

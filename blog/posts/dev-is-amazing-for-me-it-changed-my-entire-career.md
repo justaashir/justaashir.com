@@ -1,7 +1,7 @@
 ---
 title: 'DEV is Amazing for me, it changed my entire career'
 url: DEV is amazing for newcomers like me
-carn: none
+carn: /
 date: 2020-01-29T07:57:57.598Z
 description: >-
   I was really scared of my writing before, that I'm not so good and I can't write. I found DEV and wrote my post just for fun but I got an amazing reaction on it, It was so unexpected, it motivated me to write more and Today I'm sharing my own story from 0 to 1.

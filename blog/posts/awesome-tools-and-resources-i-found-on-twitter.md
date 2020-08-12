@@ -1,7 +1,7 @@
 ---
 title: 'Awesome Tools and Resources I Found on Twitter '
 url: tools from twitter
-carn: none
+carn: /
 description: >-
   I started using Twitter from June 2019 and I found it very useful, cause it's a really easy and very efficient way to maintain your online presence, I have spent almost 3 months on Twitter, wasn't getting many followers before writing here.
 date: 2019-09-22T07:30:37.142Z

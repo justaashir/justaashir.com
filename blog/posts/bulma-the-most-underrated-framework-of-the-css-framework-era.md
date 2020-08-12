@@ -1,7 +1,7 @@
 ---
 title: Bulma - The Most Underrated Framework of the CSS Framework Era
 url: Bulma is the most Underrated Framework
-carn: none
+carn: /
 description: >-
   I was just using YouTube as usual and then I came to Bulma.css tagged 'The Easiest Framework You can learn in 20 minutes', Hmm I watched it and it really changed my life, It was really the easiest framework, even you don't have to remember the classes and there are some of the advantages
 date: 2019-11-16T07:19:55.751Z

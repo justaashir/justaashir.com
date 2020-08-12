@@ -1,7 +1,7 @@
 ---
 title: 'Fill up your portfolio with meaningful projects, Use these APIs '
 url: free-apis-for-projects
-carn: none
+carn: /
 description: >-
   Hi, You should be filling up your portfolio with new shiny projects, then just landing pages of dummy websites.
   People want to see a real-world app with all the data, they want to feel it and they don't just want lorem ipsum.

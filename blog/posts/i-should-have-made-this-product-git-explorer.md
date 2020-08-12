@@ -1,7 +1,7 @@
 ---
 title: I should have made this product - Git Explorer
 url: git-explorer-review
-carn: none
+carn: /
 description: >-
   It's too amazing, that I'm jealous that I should've made it before. Sometimes you just need to look up for problems you're having and list them out and share on the internet and maybe if you can create an easy unified solution to all the problems related to it.
 date: 2020-02-19T05:56:11.097Z

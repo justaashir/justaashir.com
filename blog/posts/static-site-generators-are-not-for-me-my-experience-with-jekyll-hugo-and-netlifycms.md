@@ -5,7 +5,7 @@ title: >-
 url: My story of static site generators
 description: >-
   Static Site generator sucks!
-carn: none
+carn: /
 date: 2019-09-18T07:25:35.755Z
 tags:
   - Static Site Generators

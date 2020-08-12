@@ -3,7 +3,7 @@ title: >-
   How I created my portfolio + blog website easily with Gridsome - Ultimate
   guide for Gridsome development  Part 1
 url: part-1-gridsome-ulitmate-guide-2020
-carn: none
+carn: /
 description: >-
   I have successfully created my website with Gridsome, and I'm really happy with it. I chose Gridsome because I wanted a stable solution where I can get all the features and it should be flexible enough to fill up my needs. I wanted to integrate it with Vue.
 date: 2020-01-30T14:57:39.018Z

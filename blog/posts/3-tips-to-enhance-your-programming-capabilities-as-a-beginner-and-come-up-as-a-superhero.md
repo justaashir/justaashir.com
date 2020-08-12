@@ -5,7 +5,7 @@ title: >-
 url: tricks to become a superhero in programming
 description: >-
   It's a typical tips and tricks post with some humor, so read it and !don't share it with your friends. (Easter Egg All the Headings are Reversed - Which means Negative
-carn: none
+carn: /
 date: 2019-12-13T08:02:35.389Z
 tags:
   - tricks

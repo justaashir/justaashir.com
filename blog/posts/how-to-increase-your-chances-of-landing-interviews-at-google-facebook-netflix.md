@@ -3,7 +3,7 @@ title: >-
   How to increase your chances of landing interviews at Google, Facebook,
   Netflix?
 url: get-an-interview-at-google
-carn: none
+carn: /
 description: >-
   it’s very hard to reach these companies for the interview even if you have all the skills. Today I’m sharing ways to land interviews at these organizations.
 date: 2020-02-23T05:29:07.295Z

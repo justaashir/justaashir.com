@@ -1,7 +1,7 @@
 ---
 title: Roadmap for Front-end web developers - Beginners
 url: front-end-roadmap
-carn: none
+carn: /
 description: >-
   Roadmap 2020
 date: 2020-04-21T05:31:09.836Z

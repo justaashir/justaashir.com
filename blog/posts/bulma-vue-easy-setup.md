@@ -1,7 +1,7 @@
 ---
 title: Bulma + Vue = Easy Setup
 url: How to setup Bulma with Vue
-carn: none
+carn: /
 description: >-
   Bulma is very customizable and modular as they say, You can easily integrate it into VueJS workflow. It's not like just using the cdnjs version, you can customize the SaSS variables to give Bulma your own theme or almost control everything from the border's color to the table header's padding with Bulma SaSS variables.
 date: 2019-10-31T07:54:29.295Z

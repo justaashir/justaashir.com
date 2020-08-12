@@ -7,7 +7,6 @@
           <h1 class="text-white font-bold text-xl md:text-5xl">{{ $page.post.title }}</h1>
           <tags :tags="$page.post.tags" class="md:mt-4" />
         </header>
-
         <main class="mt-8 prose text-white max-w-none break-words" v-html="$page.post.content"></main>
       </div>
     </Layout>
@@ -17,6 +16,7 @@
 <page-query>
 query ($path: String!) {
   post: post (path: $path) {
+    path
     title
     description
     url
@@ -66,7 +66,7 @@ export default {
       link: [
         {
           rel: "canonical",
-          href: this.$page.post.carn,
+          href: this.$page.post.carn === '/' ? `https://justaashir.com/${this.$page.post.path}` : this.$page.post.carn,
         },
       ],
     };
