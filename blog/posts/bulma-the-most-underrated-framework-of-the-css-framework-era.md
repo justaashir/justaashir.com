@@ -6,7 +6,7 @@ description: >-
   I was just using YouTube as usual and then I came to Bulma.css tagged 'The Easiest Framework You can learn in 20 minutes', Hmm I watched it and it really changed my life, It was really the easiest framework, even you don't have to remember the classes and there are some of the advantages
 date: 2019-11-16T07:19:55.751Z
 tags:
-  - css frameworks
+  - css
   - bulma
 ---
 Everyone was using a CSS Framework to simplify their work and save their time, Bootstrap was and is King Right Now of the Frameworks Market. Every Institute, Almost Every Tutorial on YouTube was using Bootstrap, Developers were not learning Fundamentals of CSS and using Bootstrap. I was also a beginner at that time, I learned HTML and CSS from [W3schools](https://www.w3schools.com/) and [Lynda](https://www.lynda.com/). Then I used a lot of floats to make web pages, and kinda like the way.

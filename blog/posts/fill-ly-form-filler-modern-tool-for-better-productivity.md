@@ -9,7 +9,7 @@ date: 2019-12-05T07:59:56.499Z
 tags:
   - tools
   - productivity
-  - fill.ly
+  - tricks
 ---
 This tool is not another password manager; it’s a tool for better development for the community, it can easily make your work easier and save you from a lot of anxiety of filling up the same forms again and again in development, testing or production environment. It’s a modern approach to better and productive in filling up forms and sharing them with your team.
 

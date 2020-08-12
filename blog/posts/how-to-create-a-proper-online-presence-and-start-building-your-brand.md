@@ -8,8 +8,6 @@ date: 2020-01-31T13:34:00.166Z
 tags:
   - popular
   - online presence
-  - story
-  - lists
   - guide
 ---
 Hi, are you looking for better opportunities and want to share your thoughts with a lot more people. It's not hard, you just need some tips and tricks and get this thing in your mind that "It's not possible in one day or a week." You have to work on it and pay continuous attention to it every day.

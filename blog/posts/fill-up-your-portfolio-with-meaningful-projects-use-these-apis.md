@@ -8,9 +8,9 @@ description: >-
   So It's time for you to use an Open API to create a real-world project. You can create a project with these APIs using Vanilla JS, JQuery, VueJS, React or even Angular.
 date: 2020-02-09T07:31:21.835Z
 tags:
-  - APIs
+  - web development
   - lists
-  - projects
+  - portfolio
 ---
 Hi, You should be filling up your portfolio with new shiny projects, then just landing pages of dummy websites.
 People want to see a real-world app with all the data, they want to feel it and they don't just want lorem ipsum.

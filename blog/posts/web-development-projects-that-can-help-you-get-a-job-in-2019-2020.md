@@ -7,8 +7,9 @@ description: >-
   Most people have expertise in Web Development and really wanna get their first job???? The Recruiters wanna see the Portfolios fill with previous job Experience or some Useful Working Personal Projects. So today I am going to tell you about some Serious projects you can add in your portfolio and can easily get a job in 2020.
 tags:
   - web development
-  - projects
-  - tutorials
+  - portfolio
+  - job
+  - list
 ---
 
 

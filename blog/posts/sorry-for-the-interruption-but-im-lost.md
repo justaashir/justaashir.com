@@ -7,9 +7,8 @@ description: >-
 date: 2020-04-20T02:42:30.337Z
 tags:
   - youtube
-  - extraordinary
   - career
-  - life-story
+  - story
 ---
 Hi, I'm Aashir Aamir Khan - Front End Web Developer/Growth Hacker/Startup Guy/Technical Writer/Youtuber/Twitter Lover.
 

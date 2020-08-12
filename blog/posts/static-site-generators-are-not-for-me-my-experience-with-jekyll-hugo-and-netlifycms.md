@@ -8,10 +8,9 @@ description: >-
 carn: /
 date: 2019-09-18T07:25:35.755Z
 tags:
-  - Static Site Generators
-  - Hugo
-  - NetlifyCMS
-  - Wordpress
+  - others
+  - netlify
+  - wordpress
 ---
 My [previous post](https://dev.to/justaashir/bulma-the-most-underrated-framework-of-the-css-framework-era-2gj8) was a banger, I didn't know about the DEV's Power. My next post is here:
 

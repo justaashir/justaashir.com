@@ -8,7 +8,7 @@ date: 2019-10-31T07:54:29.295Z
 tags:
   - vue
   - bulma
-  - setups
+  - setup
 ---
 I am learning VueJs nowadays and it's Awesome! VueJS community is very strong, I think I can also contribute to it by writing this post.
 

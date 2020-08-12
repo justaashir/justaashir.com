@@ -9,9 +9,8 @@ description: >-
 date: 2020-01-30T14:57:39.018Z
 tags:
   - gridsome
-  - series
-  - vuejs
-  - static site generators
+  - vue
+  - portfolio
 ---
 I have successfully created my website with [Gridsome](https://www.gridsome.com), and I'm really happy with it. I chose Gridsome because I wanted a stable solution where I can get all the features and it should be flexible enough to fill up my needs. I wanted to integrate it with Vue. There were other options like [Nuxt.js ](https://www.nuxtjs.org)and [Vuepress ](https://vuepress.vuejs.org/)and some other non-Vue options like [11ty ](https://www.11ty.dev/)and [Hugo ](https://gohugo.io/) but Gridsome was looking promising to me, So I gave it a try and this is my final experience.
 
