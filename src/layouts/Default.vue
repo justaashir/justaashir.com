@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="bg-background w-full min-h-screen">
+    <div class="bg-background w-full min-h-screen pb-10">
       <!-- Sidebar -->
     <div class="fixed bg-primary md:bg-background md:min-h-screen md:left-0 top-0 w-full flex justify-around md:w-auto md:justify-start md:flex-col items-center z-10">
       <g-link
