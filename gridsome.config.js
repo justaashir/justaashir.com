@@ -1,4 +1,5 @@
 module.exports = {
+  titleTemplate: '%s',
   siteUrl: 'https://justaashir.com',
   plugins: [
     {
