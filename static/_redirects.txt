@@ -1,0 +1,1 @@
+/blog/how-to-setup-bulma-with-vue/  /blog/bulma-vue-js-installation/
