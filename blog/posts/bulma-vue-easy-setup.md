@@ -1,57 +1,150 @@
 ---
-title: Bulma + Vue = Easy Setup
-url: How to setup Bulma with Vue
+title: Bulma and Vue JS - How to install and customize with ease
+description: In this post, I shared how you can integrate bulma css framework in
+  Vue Js. If you're using VueJS, you may find it hard to install bulma with
+  customization options.
+url: bulma-vue-js-installation
 carn: /
-description: >-
-  Bulma is very customizable and modular as they say, You can easily integrate it into VueJS workflow. It's not like just using the cdnjs version, you can customize the SaSS variables to give Bulma your own theme or almost control everything from the border's color to the table header's padding with Bulma SaSS variables.
 date: 2019-10-31T07:54:29.295Z
 tags:
   - vue
   - bulma
   - setup
 ---
-I am learning VueJs nowadays and it's Awesome! VueJS community is very strong, I think I can also contribute to it by writing this post.
+ **Bulma** is a free, open-source CSS framework based on  **Flexbox** and used by more than  **200,000**  developers. It's the easiest to learn (my opinion) due to its natural naming of classes and a simple grid system. It's not that popular like Bootstrap, but it got a specific fanbase.
 
-[Bulma.css](http://bulma.io) is the main driver right now to make responsive designs and it's very customizable and modular as they say, You can easily integrate it into VueJS workflow. It's not like just using the cdnjs version, you can customize the SaSS variables to give Bulma your own theme or almost control everything from the border's color to the table header's padding with Bulma SaSS variables.
+Today's post is not about Bulma's benefits or usage. It's more specifically about the integration of Bulma and VueJS.
 
-#### 1 . You have to install VueJs with CSS Preprocessors Sass with Node-Sass or Dart-Sass
+## How to use Bulma with VueJS
 
-You can read this beautifully written article : [https://dev.to/helleworld_/integrating-dart-node-sass-in-vuejs-4o39](https://dev.to/helleworld_/integrating-dart-node-sass-in-vuejs-4o39)
+There are several ways to **get started** with Bulma. You can either:
 
-#### 2 . Install Bulma First
+1. use  **npm**  to install the Bulma package (Recommended - Customizable)
+2. use the  **jsDelivr CDN**  to link to the Bulma stylesheet (cannot be customized)
 
-Na Na Na, the CDNJS will not work here. you have to install it through npm :
+### 1. Integration Bulma using npm
 
-```
-    npm install bulma
-```
+It's my personal recommendation to use the Bulma in VueJS this way, because of some benefits that you'll not get another way around.
 
-OR
+* You can customize colors, breakpoints, type, and custom imports to decrease the file size.
 
-```
-   yarn add bulma
-```
+This is only possible if we set up a Sass workflow in our project, because of Bulma's nature.
 
-Now Check out the `package.json` you will find Bulma there in dependencies
+So Here we go:
 
-#### 3. Now you can create a folder or place the SaSS file in `/assets`
+#### Installing Bulma
 
-make a file named whatever and place wherever in `/src' with`.scss` file extension.
-
-#### 4. Open the Sass File and setup Bulma
-
-you can import the sass file of Bulma from `/.node-modules` into this file like this and customize it, you have to set Bulma [Variables](https://bulma.io/documentation/customize/variables/) before importing Bulma like this. Provide the right path from node-modules ![Setup Bulma Carbon](https://thepracticaldev.s3.amazonaws.com/i/hdtbma337wcz4318ad51.png)
-
-#### 5 . Connect it to your VueJs App
-
-I don't know if it's the right way to connect the Bulma with VueJs, but it's working fine for me. By this, you don't have to care about the generated CSS files or sass loader. In this way, you can connect your Bulma and sass: \*\*You have to provide the exact path to your file. In My Case it is
+1. Install these required dependencies (If it already doesn't exist in your project):
 
 ```
-require('./scss/main.scss');
+npm install --save-dev node-sass sass-loader
 ```
 
-There is another thing called [Buefy](https://www.buefy.org), Ali wrote a fantastic post about this : <https://dev.to/aligoren/bulma-based-ui-components-for-vuejs-41i4>.
+ You can also read this [in-depth post](https://dev.to/helleworld_/integrating-dart-node-sass-in-vuejs-4o39) about it, if you don't understand this or want more detail installation.
 
-Bye Bye, I'm active on Twitter : [https://www.twitter.com/justaashir](https://www.twitter.com/justaashir)
+2. Install Bulma through npm/yarn:
 
-Also go read how [Renetal](https://renetal.com) is helping rental businesses to digitize their operations seamlessly
+```
+npm install bulma
+```
+
+3. You can now review your `package.json` to see the changes.
+
+#### Adding to the project
+
+It's super opinionated to import Bulma to the project, but this way works best for me:
+
+1. Create a `main.scss` in the /assets folder.
+2. In this `main.scss` file paste this code:
+
+```
+// Customizations Here (Optional)
+
+// Bulma Import
+@import '~bulma';
+```
+
+3. Add this file in `main.js` of your project like this:
+
+```
+require('@/assets/main.scss');
+```
+
+You're all good, now. Just start the local development server and check Bulma working on your website.
+
+#### Video Tutorial
+
+Coming Soon!
+
+### 2. use the  jsDelivr CDN  to link to the Bulma stylesheet (cannot be customized)
+
+This is the easiest way to integrate Bulma into your project (Vue or HTML/CSS) but you'll not able to [customize](https://bulma.io/documentation/customize/) anything in this way. You'll get a complete build of Bulma.
+
+So here is how you can add through CDN:
+
+1. Copy this, or retrieve the [latest version of Bulma from JSDelivr](https://www.jsdelivr.com/package/npm/bulma?path=css):
+
+```
+<link href="https://cdn.jsdelivr.net/npm/bulma@0.9.0/css/bulma.min.css">
+```
+
+2. Go  to the /public directory and paste this in `index.html`
+
+Restart the local development server, and start using Bulma 🙌.
+
+- - -
+
+### Customization (Bonus)
+
+This is the bonus chapter of this post, where I will shortly mention the effects of customization in Bulma, and how you can customize it. 
+Bulma is natively written in Sass, so you need a Sass workflow to customize it using Variables which is only possible if you're using the `npm` 
+
+#### Basic Customization
+
+```
+@charset "utf-8";
+
+// Import a Google Font
+@import url('https://fonts.googleapis.com/css?family=Nunito:400,700');
+
+// Set your brand colors
+$purple: #8A4D76;
+$pink: #FA7C91;
+$brown: #757763;
+$beige-light: #D0D1CD;
+$beige-lighter: #EFF0EB;
+
+// Update Bulma's global variables
+$family-sans-serif: "Nunito", sans-serif;
+$grey-dark: $brown;
+$grey-light: $beige-light;
+$primary: $purple;
+$link: $pink;
+$widescreen-enabled: false;
+$fullhd-enabled: false;
+
+// Update some of Bulma's component variables
+$body-background-color: $beige-lighter;
+$control-border-width: 2px;
+$input-border-color: transparent;
+$input-shadow: none;
+
+// Import only what you need from Bulma
+@import "../node_modules/bulma/sass/utilities/_all.sass";
+@import "../node_modules/bulma/sass/base/_all.sass";
+@import "../node_modules/bulma/sass/elements/button.sass";
+@import "../node_modules/bulma/sass/elements/container.sass";
+@import "../node_modules/bulma/sass/elements/title.sass";
+@import "../node_modules/bulma/sass/form/_all.sass";
+@import "../node_modules/bulma/sass/components/navbar.sass";
+@import "../node_modules/bulma/sass/layout/hero.sass";
+@import "../node_modules/bulma/sass/layout/section.sass";
+```
+
+#### Result:
+
+![Bulma customized](https://bulma.io/images/customize/custom-bulma-03-styled.png "Bulma Customized Screenshot")
+
+This is it, and voilà! You've managed to install and customize Bulma.
+
+*Thanks for reading this post, if you liked it, Share it on Twitter and tag me. Don't forget to [follow me](https://twitter.com/justaashir) there.*
