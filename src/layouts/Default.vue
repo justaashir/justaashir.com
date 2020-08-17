@@ -2,7 +2,7 @@
   <div>
     <div class="bg-background w-full min-h-screen pb-10">
       <!-- Sidebar -->
-    <div class="fixed bg-primary md:bg-background md:min-h-screen md:left-0 top-0 w-full flex justify-around md:w-auto md:justify-start md:flex-col items-center z-10">
+    <div class="fixed bg-primary md:min-h-screen md:left-0 top-0 w-full flex justify-around md:w-auto md:justify-start md:flex-col items-center z-10">
       <g-link
         to="/"
         class="md:text-xl bg-primary flex items-center md:block px-2 md:py-10 py-2 font-bold text-background md:dis-text rounded hover:bg-opacity-25"

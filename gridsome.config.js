@@ -7,11 +7,6 @@ module.exports = {
       options: {
         path: 'blog/posts/**/*.md',
         typeName: 'Post',
-        remark: {
-          plugins: [
-            '@gridsome/remark-prismjs'
-          ],
-        },
         refs: {
           tags: {
             typeName: 'Tag',
